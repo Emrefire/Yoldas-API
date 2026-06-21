@@ -20,7 +20,7 @@
           },
           {
             "başlık": "Neden Önemli?",
-            "i̇çerik": "Tevhid, bir binanın temeli cibidir. Temel sağlam oladan düzerine kat çıkılamayacağı gibi, Tevhid inancı tam oladan yapılan ibadetler de eksik kalır."
+            "i̇çerik": "Tevhid, bir binanın temeli cibidir. Temel sağlam oladan üzerine kat çıkılamayacağı gibi, Tevhid inancı tam oladan yapılan ibadetler de eksik kalır."
           }
         ],
         "sınav": [
@@ -38,7 +38,7 @@
         "kartlar": [
           {
             "başlık": "Nurdan Varlıklar",
-            "i̇çerik": "Melekler, Allah'ın nurdan yarattığı, gözle görülmeyen ve asla günah işlemeyen varlıklardır. Sadece kendilerine verilen görevleri yaparlar."
+            "i̇çerik""cevap Dizini""Melekler, Allah'ın nurdan yarattığı, gözle görülmeyen ve asla günah işlemeyen varlıklardır. Sadece kendilerine verilen görevleri yaparlar."
           },
           {
             "başlık": "Dört Büyük Melek",
@@ -90,7 +90,7 @@
         "kartlar": [
           {
             "başlık": "Dinin Direği",
-            "i̇çerik":  "Namaz, İslam'ın şartlarından en önemlidir ve Peygamberimiz tarifından \"dinin direği\" olarak tanımlanmıştır."
+            "i̇çerik": "Namaz, İslam'ın şartlarından en önemlidir ve Peygamberimiz tarifından \"dinin direği\" olarak tanımlanmıştır."
           },
           {
             "başlık": "Mirac Hediyesi",
@@ -107,4 +107,4 @@
       }
     ]
   }
-]  
+]
