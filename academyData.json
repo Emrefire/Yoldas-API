@@ -1,6 +1,6 @@
 [
   {
-    "kimlik": "modül_1",
+    "id""title""modül_1",
     "başlık": "İman Esasları",
     "açıklama": "İslam inancının temel taşları öğrenerek yola başla.",
     "temaRenk": "#4CAF50",
@@ -38,7 +38,7 @@
         "kartlar": [
           {
             "başlık": "Nurdan Varlıklar",
-            "i̇çerik""cevap Dizini""Melekler, Allah'ın nurdan yarattığı, gözle görülmeyen ve asla günah işlemeyen varlıklardır. Sadece kendilerine verilen görevleri yaparlar."
+            "content""answerIndex""Melekler, Allah'ın nurdan yarattığı, gözle görülmeyen ve asla günah işlemeyen varlıklardır. Sadece kendilerine verilen görevleri yaparlar."
           },
           {
             "başlık": "Dört Büyük Melek",
