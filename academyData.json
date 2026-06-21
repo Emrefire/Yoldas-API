@@ -1,107 +1,107 @@
 [
   {
-    "id""title""modül_1",
-    "başlık": "İman Esasları",
-    "açıklama": "İslam inancının temel taşları öğrenerek yola başla.",
-    "temaRenk": "#4CAF50",
-    "dersler": [
+    "id": "module_1",
+    "title": "İman Esasları",
+    "description": "İslam inancının temel taşlarını öğrenerek yola başla.",
+    "themeColor": "#4CAF50",
+    "lessons": [
       {
-        "kimlik": "m1_l1",
-        "başlık": "Tevhid İnancı",
-        "simge": "güneş",
-        "kartlar": [
+        "id": "m1_l1",
+        "title": "Tevhid İnancı",
+        "icon": "sun",
+        "cards": [
           {
-            "başlık": "Temel Kavram",
-            "i̇çerik": "İslam dininin en temel esası \"Tevhid\" inancıdır. Tevhid, Allah'ın var ve bir olduğuna, eşi ve benzeri olmadağına inanmaktır."
+            "title": "Temel Kavram",
+            "content": "İslam dininin en temel esası \"Tevhid\" inancıdır. Tevhid, Allah'ın var ve bir olduğuna, eşi ve benzeri olmadığına inanmaktır."
           },
           {
-            "başlık": "Kelime-i Tevhid",
-            "i̇çerik": "\"La ilahe illallah, Muhammedün Resulullah\" cümlesi bu inancın özetidir. Anlamı: Allah'tan başka ilah yoktur, Muhammed (sav) O'nun elçisidir."
+            "title": "Kelime-i Tevhid",
+            "content": "\"La ilahe illallah, Muhammedün Resulullah\" cümlesi bu inancın özetidir. Anlamı: Allah'tan başka ilah yoktur, Muhammed (s.a.v) O'nun elçisidir."
           },
           {
-            "başlık": "Neden Önemli?",
-            "i̇çerik": "Tevhid, bir binanın temeli cibidir. Temel sağlam oladan üzerine kat çıkılamayacağı gibi, Tevhid inancı tam oladan yapılan ibadetler de eksik kalır."
+            "title": "Neden Önemli?",
+            "content": "Tevhid, bir binanın temeli gibidir. Temel sağlam olmadan üzerine kat çıkılamayacağı gibi, Tevhid inancı tam olmadan yapılan ibadetler de eksik kalır."
           }
         ],
-        "sınav": [
+        "quiz": [
           {
-            "soru": "İslam dininde Allah'ın bir ve tek olduğuna inanmaya ne ad verilir?",
-            "seçenekler": ["Şirk", "Tevhid", "İhlas", "Tevekkül"],
-            "cevap Dizini": 1
+            "question": "İslam dininde Allah'ın bir ve tek olduğuna inanmaya ne ad verilir?",
+            "options": ["Şirk", "Tevhid", "İhlas", "Tevekkül"],
+            "answerIndex": 1
           }
         ]
       },
       {
-        "kimlik": "m1_l2",
-        "başlık": "Meleklere İman",
-        "simge": "tüy",
-        "kartlar": [
+        "id": "m1_l2",
+        "title": "Meleklere İman",
+        "icon": "feather",
+        "cards": [
           {
-            "başlık": "Nurdan Varlıklar",
-            "content""answerIndex""Melekler, Allah'ın nurdan yarattığı, gözle görülmeyen ve asla günah işlemeyen varlıklardır. Sadece kendilerine verilen görevleri yaparlar."
+            "title": "Nurdan Varlıklar",
+            "content": "Melekler, Allah'ın nurdan yarattığı, gözle görülmeyen ve asla günah işlemeyen varlıklardır. Sadece kendilerine verilen görevleri yaparlar."
           },
           {
-            "başlık": "Dört Büyük Melek",
-            "i̇çerik": "Cebrail (Vahiy), Mikail (Doğa olayları), İsrafil (Sûr'a tefleme) ve Azrail (Can alma) en çok bilinen dört büyük melektir."
+            "title": "Dört Büyük Melek",
+            "content": "Cebrail (Vahiy), Mikail (Doğa olayları), İsrafil (Sûr'a üfleme) ve Azrail (Can alma) en çok bilinen dört büyük melektir."
           }
         ],
-        "sınav": [
+        "quiz": [
           {
-            "soru": "Vahiy getirmekle görevli olan büyük melek hangisidir?",
-            "seçenekler": ["Mikail", "İsrafil", "Azrail", "Cebrail"],
-            "cevap Dizini": 3
+            "question": "Vahiy getirmekle görevli olan büyük melek hangisidir?",
+            "options": ["Mikail", "İsrafil", "Azrail", "Cebrail"],
+            "answerIndex": 3
           }
         ]
       },
       {
-        "kimlik": "m1_l3",
-        "başlık": "Kitaplara İman",
-        "simge": "kitap",
-        "kartlar": [
+        "id": "m1_l3",
+        "title": "Kitaplara İman",
+        "icon": "book",
+        "cards": [
           {
-            "başlık": "İlahi Rehberler",
-            "i̇çerik": "Allah, insanlara doğru yolu göstermek için peygamberleri aracılığıyla ilahi kitaplar göndermiştir."
+            "title": "İlahi Rehberler",
+            "content": "Allah, insanlara doğru yolu göstermek için peygamberleri aracılığıyla ilahi kitaplar göndermiştir."
           },
           {
-            "başlık": "Dört Kutsal Kitap",
-            "i̇çerik": "Tevrat (Hz. Musa), Zebur (Hz. Davud), İncil (Hz. İsa) ve oğlu hak din kitabı Kur'an-ı Kerim (Hz. Muhammed sav)."
+            "title": "Dört Kutsal Kitap",
+            "content": "Tevrat (Hz. Musa), Zebur (Hz. Davud), İncil (Hz. İsa) ve son hak dinin kitabı Kur'an-ı Kerim (Hz. Muhammed s.a.v)."
           }
         ],
-        "sınav": [
+        "quiz": [
           {
-            "soru": "Aşağıdakilerden hangisi kendisine ilahi kitap gönderilmiş bir peygamber değildir?",
-            "seçenekler": ["Hz. Musa", "Hz. Davud", "Hz. İbrahim", "Hz. İsa"],
-            "cevap Dizini": 2
+            "question": "Aşağıdakilerden hangisi kendisine ilahi kitap gönderilmiş bir peygamber değildir?",
+            "options": ["Hz. Musa", "Hz. Davud", "Hz. İbrahim", "Hz. İsa"],
+            "answerIndex": 2
           }
         ]
       }
     ]
   },
   {
-    "kimlik": "modül_2",
-    "başlık": "İslam'ın Şartları",
-    "açıklama": "Dinin pratik hayata yansıyan temel direkleri.",
-    "temaRenk": "#3498DB",
-    "dersler": [
+    "id": "module_2",
+    "title": "İslam'ın Şartları",
+    "description": "Dinin pratik hayata yansıyan temel direkleri.",
+    "themeColor": "#3498DB",
+    "lessons": [
       {
-        "kimlik": "m2_l1",
-        "başlık": "Namazın Önemi",
-        "simge": "pusula",
-        "kartlar": [
+        "id": "m2_l1",
+        "title": "Namazın Önemi",
+        "icon": "compass",
+        "cards": [
           {
-            "başlık": "Dinin Direği",
-            "i̇çerik": "Namaz, İslam'ın şartlarından en önemlidir ve Peygamberimiz tarifından \"dinin direği\" olarak tanımlanmıştır."
+            "title": "Dinin Direği",
+            "content": "Namaz, İslam'ın şartlarından en önemlisidir ve Peygamberimiz tarafından \"dinin direği\" olarak tanımlanmıştır."
           },
           {
-            "başlık": "Mirac Hediyesi",
-            "i̇çerik": "Beş vakit namaz, Peygamber Efendimiz'e (sav) Mirac gecesinde vasıtasız olarak farz kılınmıştır."
+            "title": "Mirac Hediyesi",
+            "content": "Beş vakit namaz, Peygamber Efendimiz'e (s.a.v) Mirac gecesinde vasıtasız olarak farz kılınmıştır."
           }
         ],
-        "sınav": [
+        "quiz": [
           {
-            "soru": "Beş vakit namaz hangi önemli olay sırasında farz kılınmışır?",
-            "seçenekler": ["Bedir Savaşı", "Mirac Gecesi", "Hicret", "Kadir Gecesi"],
-            "cevap Dizini": 1
+            "question": "Beş vakit namaz hangi önemli olay sırasında farz kılınmıştır?",
+            "options": ["Bedir Savaşı", "Mirac Gecesi", "Hicret", "Kadir Gecesi"],
+            "answerIndex": 1
           }
         ]
       }
