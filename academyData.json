@@ -1,39 +1,39 @@
 [
   {
-    "id": "module_1",
-    "title": "İman Esasları",
-    "description": "İslam inancının temel taşlarını öğrenerek yola başla.",
-    "themeColor": "#4CAF50",
-    "lessons": [
+    "kimlik": "modül_1",
+    "başlık": "İman Esasları",
+    "açıklama": "İslam inancının temel taşları öğrenerek yola başla.",
+    "temaRenk": "#4CAF50",
+    "dersler": [
       {
-        "id": "m1_l1",
-        "title": "Tevhid İnancı",
-        "icon": "sun",
-        "cards": [
+        "kimlik": "m1_l1",
+        "başlık": "Tevhid İnancı",
+        "simge": "güneş",
+        "kartlar": [
           {
-            "title": "Temel Kavram",
-            "content": "İslam dininin en temel esası \"Tevhid\" inancıdır. Tevhid, Allah'ın var ve bir olduğuna, eşi ve benzeri olmadığına inanmaktır."
+            "başlık": "Temel Kavram",
+            "i̇çerik": "İslam dininin en temel esası \"Tevhid\" inancıdır. Tevhid, Allah'ın var ve bir olduğuna, eşi ve benzeri olmadağına inanmaktır."
           },
           {
-            "title": "Kelime-i Tevhid",
-            "content": "\"La ilahe illallah, Muhammedün Resulullah\" cümlesi bu inancın özetidir. Anlamı: Allah'tan başka ilah yoktur, Muhammed (s.a.v) O'nun elçisidir."
+            "başlık": "Kelime-i Tevhid",
+            "i̇çerik": "\"La ilahe illallah, Muhammedün Resulullah\" cümlesi bu inancın özetidir. Anlamı: Allah'tan başka ilah yoktur, Muhammed (sav) O'nun elçisidir."
           },
           {
-            "title": "Neden Önemli?",
-            "content": "Tevhid, bir binanın temeli gibidir. Temel sağlam olmadan üzerine kat çıkılamayacağı gibi, Tevhid inancı tam olmadan yapılan ibadetler de eksik kalır."
+            "başlık": "Neden Önemli?",
+            "i̇çerik": "Tevhid, bir binanın temeli cibidir. Temel sağlam oladan düzerine kat çıkılamayacağı gibi, Tevhid inancı tam oladan yapılan ibadetler de eksik kalır."
           }
         ],
-        "quiz": [
+        "sınav": [
           {
-            "question": "İslam dininde Allah'ın bir ve tek olduğuna inanmaya ne ad verilir?",
-            "options": ["Şirk", "Tevhid", "İhlas", "Tevekkül"],
-            "answerIndex": 1
+            "soru": "İslam dininde Allah'ın bir ve tek olduğuna inanmaya ne ad verilir?",
+            "seçenekler": ["Şirk", "Tevhid", "İhlas", "Tevekkül"],
+            "cevap Dizini": 1
           }
         ]
       },
       {
-        "id": "m1_l2",
-        "title": "Meleklere İman",
+        "kimlik": "m1_l2",
+        "başlık": "Meleklere İman",
         "icon": "feather",
         "cards": [
           {
