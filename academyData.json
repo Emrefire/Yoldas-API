@@ -1,53 +1,39 @@
 [
   {
-    "kimlik": "modül_1",
-    "başlık": "İman Esasları",
-    "açıklama": "İslam inancının temel taşları öğrenerek yola başla.",
-    "temaRenk": "#4CAF50",
-    "dersler": [
+    "id": "module_1",
+    "title": "İman Esasları",
+    "description": "Tefekkür ederek ve sorgulayarak inancın temellerini keşfet.",
+    "themeColor": "#D4AF37", 
+    "lessons": [
       {
-        "kimlik": "m1_l1",
-        "başlık": "Tevhid İnancı",
-        "simge": "güneş",
-        "kartlar": [
-          { "başlık": "Temel Kavram", "i̇çerik": "İslam dininin en temel esası Tevhid inancıdır. Tevhid, Allah'ın var ve bir olduğuna, eşi ve benzeri olmadağına inanmaktır." },
-          { "başlık": "Kelime-i Tevhid", "i̇çerik": "La ilahe illallah, Muhammedün Resulullah cümlesi bu inancın özetidir." },
-          { "başlık": "Neden Önemli?", "i̇çerik": "Tevhid, bir binanın temeli cibidir. Temel sağlam oladan süzerine kat sıkılamaz." }
-        ],
-        "sınav": [
-          { "soru": "Allah'ın bir ve tek olduğuna inanmaya ne ad verilir?", "seçenekler": ["Şirk", "Tevhid", "İhlas", "Tevekkül"], "cevap Dizini": 1 }
-        ]
-      },
-      {
-        "kimlik": "m1_l2",
-        "başlık": "Meleklere İman",
-        "simge": "tüy",
-        "kartlar": [
-          { "başlık": "Nurdan Varlıklar", "i̇çerik": "Melekler, Allah'ın nurdan yaratığı, günah işlemeyen varlıklardır." },
-          { "başlık": "Dört Büyük Melek", "i̇çerik": "Cebrail, Mikail, İsrafil ve Azrail en çok bilinen dört büyük melektir." }
-        ],
-        "sınav": [
-          { "soru": "Vahiy getirmekle görevli olan büyük melek hangisidir?", "seçenekler": ["Mikail", "İsrafil", "Azrail", "Cebrail"], "cevap Dizini": 3 }
-        ]
-      }
-    ]
-  },
-  {
-    "kimlik": "modül_2",
-    "başlık": "İslam'ın Şartları",
-    "açıklama": "Dinin pratik hayata yansıyan temel direkleri.",
-    "temaRenk": "#3498DB",
-    "dersler": [
-      {
-        "kimlik": "m2_l1",
-        "başlık": "Namazın Önemi",
-        "simge": "pusula",
-        "kartlar": [
-          { "başlık": "Dinin Direği", "i̇çerik": "Namaz, İslam'ın şartlarınından en önemlidir." },
-          { "başlık": "Mirac Hediyesi", "i̇çerik": "Beş vakit namaz, Mirac gecesinde farz kılınmıştır." }
-        ],
-        "sınav": [
-          { "soru": "Beş vakit namaz ne zaman farz kılınmıştır?", "seçenekler": ["Bedir", "Mirac", "Hicret", "Kadir"], "cevap Dizini": 1 }
+        "id": "m1_l1",
+        "title": "Tevhid: Evrenin Şifresi",
+        "icon": "sparkles",
+        "steps": [
+          { 
+            "type": "hook", 
+            "content": "Issız bir çölde kaybolsan ve gece gökyüzündeki kusursuz yıldız dizilimine baksan, bu düzenin bir tesadüf olamayacağını nasıl anlardın?" 
+          },
+          { 
+            "type": "knowledge", 
+            "title": "Kelime-i Tevhid", 
+            "content": "La ilahe illallah, Muhammedün Resulullah. Bu cümle sadece bir söz değil, hayattaki tüm sahte güçleri (korku, para, makam) reddedip sadece Allah'a boyun eğmektir." 
+          },
+          { 
+            "type": "reflection", 
+            "prompt": "Sence 'Allah'tan başka ilah yoktur' bilinci, günlük hayatındaki stres ve kaygılarını nasıl azaltır? Kısaca yaz." 
+          },
+          { 
+            "type": "quiz", 
+            "question": "Allah'a inandığını söyleyip, parayı veya makamı hayatının tek amacı haline getirmek hangi kavrama girer?", 
+            "options": ["Tevhid", "İhlas", "Şirk", "Tevekkül"], 
+            "answerIndex": 2,
+            "aiHint": "Şirk sadece taştan putlara tapmak değildir dostum. Kalbinde Allah'tan daha fazla değer verdiğin her şey gizli bir şirke dönüşebilir. Tekrar düşün..."
+          },
+          { 
+            "type": "mission", 
+            "content": "Bugün gökyüzüne, bir ağaca veya kendi eline bakıp 1 dakika boyunca yaratılışın mükemmelliğini tefekkür et." 
+          }
         ]
       }
     ]
