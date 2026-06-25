@@ -3,36 +3,41 @@
     "id": "module_1",
     "title": "İman Esasları",
     "description": "Tefekkür ederek ve sorgulayarak inancın temellerini keşfet.",
-    "themeColor": "#D4AF37", 
+    "themeColor": "#D4AF37",
     "lessons": [
       {
         "id": "m1_l1",
         "title": "Tevhid: Evrenin Şifresi",
         "icon": "sparkles",
         "steps": [
+          { "type": "hook", "content": "Issız bir çölde kaybolsan ve gece gökyüzündeki kusursuz yıldız dizilimine baksan, bu düzenin bir tesadüf olamayacağını nasıl anlardın?" },
+          { "type": "knowledge", "title": "Kelime-i Tevhid", "content": "La ilahe illallah, Muhammedün Resulullah. Bu cümle sadece bir söz değil, hayattaki tüm sahte güçleri reddedip sadece Allah'a boyun eğmektir." },
+          { "type": "reflection", "prompt": "Sence 'Allah'tan başka ilah yoktur' bilinci, günlük hayatındaki stres ve kaygılarını nasıl azaltır? Kısaca yaz." },
+          { "type": "quiz", "question": "Allah'a inandığını söyleyip, parayı veya makamı hayatının tek amacı haline getirmek hangi kavrama girer?", "options": ["Tevhid", "İhlas", "Şirk", "Tevekkül"], "answerIndex": 2, "aiHint": "Şirk sadece taştan putlara tapmak değildir dostum. Kalbinde Allah'tan daha fazla değer verdiğin her şey gizli bir şirke dönüşebilir. Tekrar düşün..." },
+          { "type": "mission", "content": "Bugün gökyüzüne, bir ağaca veya kendi eline bakıp 1 dakika boyunca yaratılışın mükemmelliğini tefekkür et." }
+        ]
+      },
+      {
+        "id": "m1_final",
+        "title": "Bölüm Zirvesi: İmam Gazali",
+        "icon": "trophy",
+        "steps": [
           { 
             "type": "hook", 
-            "content": "Issız bir çölde kaybolsan ve gece gökyüzündeki kusursuz yıldız dizilimine baksan, bu düzenin bir tesadüf olamayacağını nasıl anlardın?" 
+            "content": "Zihindeki bilgi insanı sadece bilgili yapar. Peki ruhu ne temizler? Büyük alimlerin ayak izlerini takip etmeye hazır mısın?" 
           },
           { 
-            "type": "knowledge", 
-            "title": "Kelime-i Tevhid", 
-            "content": "La ilahe illallah, Muhammedün Resulullah. Bu cümle sadece bir söz değil, hayattaki tüm sahte güçleri (korku, para, makam) reddedip sadece Allah'a boyun eğmektir." 
+            "type": "scholar", 
+            "scholarName": "İmam Gazali (r.a.)", 
+            "quote": "Bilesin ki; amelsiz ilim delilik, ilimsiz amel ise hiçtir. Kalbini dünya hırslarından, kibirden ve gösterişten arındırmadıkça, dille söylediğin Tevhid kelimesi kalbine bir nur olarak inmez. Gerçek ilim, seni dünyadan uzaklaştırıp ahirete yöneltendir." 
           },
           { 
             "type": "reflection", 
-            "prompt": "Sence 'Allah'tan başka ilah yoktur' bilinci, günlük hayatındaki stres ve kaygılarını nasıl azaltır? Kısaca yaz." 
-          },
-          { 
-            "type": "quiz", 
-            "question": "Allah'a inandığını söyleyip, parayı veya makamı hayatının tek amacı haline getirmek hangi kavrama girer?", 
-            "options": ["Tevhid", "İhlas", "Şirk", "Tevekkül"], 
-            "answerIndex": 2,
-            "aiHint": "Şirk sadece taştan putlara tapmak değildir dostum. Kalbinde Allah'tan daha fazla değer verdiğin her şey gizli bir şirke dönüşebilir. Tekrar düşün..."
+            "prompt": "Gazali'nin 'Amelsiz ilim deliliktir' sözünü düşündüğünde, bugün öğrendiğin inanç esaslarını sadece bilmekle kalmayıp hayatına (ahlakına, insanlara davranışına) nasıl yansıtacaksın? Kalbinden geçenleri dök yoldaş." 
           },
           { 
             "type": "mission", 
-            "content": "Bugün gökyüzüne, bir ağaca veya kendi eline bakıp 1 dakika boyunca yaratılışın mükemmelliğini tefekkür et." 
+            "content": "Bu bölümün tacı olarak; bugün bir insanın kalbini kırmamaya ekstra özen göster ve akşam yatağa yattığında 'Bugün ilmimle ne amel ettim?' diyerek içsel bir muhasebe yap." 
           }
         ]
       }
