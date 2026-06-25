@@ -18,27 +18,100 @@
         ]
       },
       {
+        "id": "m1_l2",
+        "title": "Melekler: Görünmez Gözlemciler",
+        "icon": "feather",
+        "steps": [
+          { "type": "hook", "content": "Eğer şu an omzunda senin her iyiliğini kaydeden ve seninle gurur duyan nurdan bir varlık olduğunu bilseydin, duruşun değişir miydi?" },
+          { "type": "knowledge", "title": "Kiramen Katibin", "content": "İslam inancına göre yalnız değiliz. Kiramen Katibin (Değerli Yazıcılar) adı verilen melekler, sağ ve sol omzumuzda niyetlerimizi ve amellerimizi kaydeder. Onlar bizim manevi yoldaşlarımızdır." },
+          { "type": "reflection", "prompt": "Biri seni izlerken davranışlarına daha çok dikkat edersin. Meleklerin seni her an izlediğini ve iyi niyetlerini anında kaydettiğini bilmek sana nasıl hissettiriyor?" },
+          { "type": "quiz", "question": "İnsanın sağ ve solunda bulunup yaptıklarını kaydeden meleklerin genel adı nedir?", "options": ["Hafaza", "Münker ve Nekir", "Kiramen Katibin", "Mukarrebun"], "answerIndex": 2, "aiHint": "Bu meleklerin ismi Kur'an'da geçer ve 'değerli yazıcılar' anlamına gelir. Şıkları buna göre eleyelim..." },
+          { "type": "mission", "content": "Bugün sağ omzundaki meleği gülümsetecek gizli bir iyilik yap (kimsenin bilmediği bir sadaka, sessiz bir dua veya birine yardım)." }
+        ]
+      },
+      {
         "id": "m1_final",
         "title": "Bölüm Zirvesi: İmam Gazali",
         "icon": "trophy",
         "steps": [
-          { 
-            "type": "hook", 
-            "content": "Zihindeki bilgi insanı sadece bilgili yapar. Peki ruhu ne temizler? Büyük alimlerin ayak izlerini takip etmeye hazır mısın?" 
-          },
-          { 
-            "type": "scholar", 
-            "scholarName": "İmam Gazali (r.a.)", 
-            "quote": "Bilesin ki; amelsiz ilim delilik, ilimsiz amel ise hiçtir. Kalbini dünya hırslarından, kibirden ve gösterişten arındırmadıkça, dille söylediğin Tevhid kelimesi kalbine bir nur olarak inmez. Gerçek ilim, seni dünyadan uzaklaştırıp ahirete yöneltendir." 
-          },
-          { 
-            "type": "reflection", 
-            "prompt": "Gazali'nin 'Amelsiz ilim deliliktir' sözünü düşündüğünde, bugün öğrendiğin inanç esaslarını sadece bilmekle kalmayıp hayatına (ahlakına, insanlara davranışına) nasıl yansıtacaksın? Kalbinden geçenleri dök yoldaş." 
-          },
-          { 
-            "type": "mission", 
-            "content": "Bu bölümün tacı olarak; bugün bir insanın kalbini kırmamaya ekstra özen göster ve akşam yatağa yattığında 'Bugün ilmimle ne amel ettim?' diyerek içsel bir muhasebe yap." 
-          }
+          { "type": "hook", "content": "Zihindeki bilgi insanı sadece bilgili yapar. Peki ruhu ne temizler? Büyük alimlerin ayak izlerini takip etmeye hazır mısın?" },
+          { "type": "scholar", "scholarName": "İmam Gazali (k.s.)", "quote": "Bilesin ki; amelsiz ilim delilik, ilimsiz amel ise hiçtir. Kalbini dünya hırslarından, kibirden ve gösterişten arındırmadıkça, dille söylediğin Tevhid kelimesi kalbine bir nur olarak inmez. Gerçek ilim, seni ahirete yöneltendir." },
+          { "type": "reflection", "prompt": "Gazali'nin 'Amelsiz ilim deliliktir' sözünü düşündüğünde, bugün öğrendiklerini sadece bilmekle kalmayıp karakterine nasıl yansıtacaksın?" },
+          { "type": "mission", "content": "Bu bölümün tacı olarak; bugün kibrini kıracak bir adım at ve birinin hatasını yüzüne vurmak yerine onu sessizce ört." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "module_2",
+    "title": "İslam'ın Şartları",
+    "description": "İnancı eyleme dönüştüren manevi direkleri inşa et.",
+    "themeColor": "#3182CE",
+    "lessons": [
+      {
+        "id": "m2_l1",
+        "title": "Namaz: Ruhun Miracı",
+        "icon": "compass",
+        "steps": [
+          { "type": "hook", "content": "Dünyanın tüm stresi omuzlarındayken, zamanı durdurup direkt Yaratıcı ile baş başa konuşma fırsatın olsaydı, bunu kaçırır mıydın?" },
+          { "type": "knowledge", "title": "Dinin Direği", "content": "Namaz sadece fiziksel bir ritüel değil, günde 5 kez dünyadan kopuş ve Allah'ın huzuruna çıkıştır. Peygamber Efendimiz (sav) namazı 'Müminin Miracı' (yükselişi) olarak tanımlamıştır." },
+          { "type": "reflection", "prompt": "Namaz kılarken zihninin başka yerlere (işe, okula, dertlere) kaymasını engellemek için nasıl bir odaklanma (huşu) yöntemi bulabilirsin?" },
+          { "type": "quiz", "question": "Peygamber Efendimiz (sav) namaz için hangi benzetmeyi yapmıştır?", "options": ["Cennetin Anahtarı", "Müminin Miracı", "Kalbin Şifası", "Dünyanın Işığı"], "answerIndex": 1, "aiHint": "Mirac hadisesini düşün. Peygamberimiz göğe yükselip Allah ile vasıtasız görüşmüştü. Müminler bunu günde 5 kez nasıl yapar?" },
+          { "type": "mission", "content": "Bugün bir vakit namazını (veya duasını) acele etmeden, her bir kelimenin anlamına odaklanarak ve yavaş yavaş eda et." }
+        ]
+      },
+      {
+        "id": "m2_l2",
+        "title": "Oruç: İradenin Zaferi",
+        "icon": "sun",
+        "steps": [
+          { "type": "hook", "content": "Açlık ve susuzluk insana nasıl güç verebilir? Beden zayıfladığında ruhun şahlandığını hiç hissettin mi?" },
+          { "type": "knowledge", "title": "Sadece Mideye Değil", "content": "Oruç, sadece yemekten içmekten kesilmek değildir. Gerçek oruç; dili yalandan, gözü haramdan, kalbi kötülükten korumaktır. İnsana nefsinin hakimi olduğunu öğretir." },
+          { "type": "reflection", "prompt": "Eğer bugün midenle birlikte diline de oruç tutturman gerekseydi (hiç şikayet etmemek, gıybet yapmamak), senin için en zor kısmı ne olurdu?" },
+          { "type": "quiz", "question": "İslam'a göre gerçek ve kamil manada oruç tutmak ne anlama gelir?", "options": ["Sadece sahur ve iftar yapmak", "Sadece aç kalmak", "Bütün organları (dil, göz, kalp vb.) günahlardan korumak", "Sadece Ramazan'da ibadet etmek"], "answerIndex": 2, "aiHint": "Yoldaş, Peygamberimiz 'Yalan konuşmayı bırakmayan kimsenin aç kalmasına Allah'ın ihtiyacı yoktur' der. Sence cevap hangisi?" },
+          { "type": "mission", "content": "Bugün 12 saat boyunca hiçbir şeyden (havadan, işten, insanlardan) şikayet etmeme orucu tut. Gıybete girme." }
+        ]
+      },
+      {
+        "id": "m2_final",
+        "title": "Bölüm Zirvesi: Hz. Mevlânâ",
+        "icon": "trophy",
+        "steps": [
+          { "type": "hook", "content": "İbadetleri bir görev olarak mı görüyorsun, yoksa bir aşk buluşması olarak mı? Rota şimdi sevgiye dönüyor..." },
+          { "type": "scholar", "scholarName": "Hz. Mevlânâ", "quote": "Aşıkların namazı hiçbir vakit bitmez. Onlar, ayakta, otururken ve yanları üzerine yatarken hep O'nu anarlar. Çünkü gerçek ibadet, kalbin her atışında Sevgili'yi hatırlamaktır." },
+          { "type": "reflection", "prompt": "Mevlânâ'nın bu aşk dolu perspektifi, ibadetlere bakış açını nasıl değiştiriyor? 'Zorunluluk' hissinden 'Sevgi' hissine nasıl geçebiliriz?" },
+          { "type": "mission", "content": "Bugün yapacağın ilk ibadette veya duada, bunu bir görev olduğu için değil, Yaratıcı'yı çok sevdiğin ve ona teşekkür etmek istediğin için yap." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "module_3",
+    "title": "Ahlak ve Nefs Terbiyesi",
+    "description": "İçindeki cevheri parlat. Sabır, şükür ve tevazu ile olgunlaş.",
+    "themeColor": "#38A169",
+    "lessons": [
+      {
+        "id": "m3_l1",
+        "title": "Sabır: Gizli Güç",
+        "icon": "shield",
+        "steps": [
+          { "type": "hook", "content": "Bazen her şey üstüne gelir. Peki, fırtınanın tam ortasında ağaçların neden daha güçlü kök saldığını biliyor musun?" },
+          { "type": "knowledge", "title": "Sabr-ı Cemil", "content": "Sabır, çaresizlikten boyun eğmek değildir; fırtınaya karşı dik durup, sonunda güneşin açacağına olan kesin inançtır. Kur'an'da 'Allah sabredenlerle beraberdir' buyrulur." },
+          { "type": "reflection", "prompt": "Son zamanlarda sabrını en çok zorlayan olay neydi? Bu olaya Yaratıcı'nın sana bir şeyler öğretmek için sunduğu bir fırsat olarak baksaydın, ne görürdün?" },
+          { "type": "quiz", "question": "İslam'da övülen 'Güzel Sabır' (Sabr-ı Cemil) ne demektir?", "options": ["İsyan etmeden, derdini sadece Allah'a açarak dayanmak", "Sürekli şikayet ederek beklemek", "Hiçbir şey yapmadan kaderi suçlamak", "Öfkelenip sonra pişman olmak"], "answerIndex": 0, "aiHint": "Hz. Yakup, oğlu Yusuf'u kaybettiğinde bu terimi kullanmıştır: 'Bana düşen artık güzel bir sabırdır...' O, insanlara şikayet etmemişti." },
+          { "type": "mission", "content": "Bugün seni çok sinirlendiren veya acele ettiren bir olay karşısında derin bir nefes al, 5 saniye bekle ve tepki vermeden önce gülümse." }
+        ]
+      },
+      {
+        "id": "m3_final",
+        "title": "Bölüm Zirvesi: Yunus Emre",
+        "icon": "trophy",
+        "steps": [
+          { "type": "hook", "content": "Her şeyi bilsen de, kendini bilmedikten sonra bunun bir anlamı var mı?" },
+          { "type": "scholar", "scholarName": "Yunus Emre", "quote": "İlim ilim bilmektir, ilim kendin bilmektir. Sen kendini bilmezsin, ya nice okumaktır! Dünyadaki en çetin savaş, insanın kendi nefsiyle yaptığı savaştır." },
+          { "type": "reflection", "prompt": "Kendi kusurlarını görmek yerine başkalarının hatalarını aramaya ne kadar meyillisin? Aynayı bugün kendine çevirsen, düzeltmek isteyeceğin ilk huyun ne olurdu?" },
+          { "type": "mission", "content": "Bugün kimseyi eleştirme. Zihninden geçen her olumsuz yargıda, kendini durdur ve 'Benim de eksiklerim var' diyerek konuyu kapat." }
         ]
       }
     ]
