@@ -11,7 +11,7 @@
         "icon": "sparkles",
         "steps": [
           { "type": "hook", "content": "Issız bir çölde kaybolsan ve gece gökyüzündeki kusursuz yıldız dizilimine baksan, bu düzenin bir tesadüf olamayacağını zihninle ve kalbinle nasıl anlardın?" },
-          { "type": "knowledge", "title": "Kelime-i Tevhid ve Özü", "content": "La ilahe illallah, Muhammedün Resulullah. Bu cümle sadece dille söylenen bir tekerleme değil; hayattaki tüm sahte güçleri, parayı, makamı ve egoyu reddedip sadece tek bir yaratıcıya teslim olmaktır." },
+          { "type": "knowledge", "title": "Kelime-i Tevhid and Özü", "content": "La ilahe illallah, Muhammedün Resulullah. Bu cümle sadece dille söylenen bir tekerleme değil; hayattaki tüm sahte güçleri, parayı, makamı ve egoyu reddedip sadece tek bir yaratıcıya teslim olmaktır." },
           { "type": "reflection", "prompt": "Sence 'Allah'tan başka hiçbir mutlak güç yoktur' bilinci, günlük hayatındaki gelecek kaygısını ve insanlardan beklentilerini nasıl azaltır? Kısaca tefekkürünü yaz." },
           { "type": "quiz", "question": "Allah'a inandığını söyleyip, parayı veya dünyevi makamı hayatının tek ve en büyük amacı haline getirmek manevi olarak hangi kavrama yaklaşır?", "options": ["Tevhid", "İhlas", "Şirk", "Tevekkül"], "answerIndex": 2, "aiHint": "Şirk sadece taştan putlara tapmak değildir dostum. Kalbinde Allah'tan daha fazla değer verdiğin, kaybetmekten O'ndan daha çok korktuğun her şey gizli bir kula dönüşebilir. Tekrar düşün..." },
           { "type": "mission", "content": "Bugün gökyüzüne, bir ağaca veya kendi parmak izine bakıp 1 dakika boyunca yaratılışın mükemmelliğini sessizce tefekkür et." }
@@ -85,7 +85,7 @@
           { "type": "hook", "content": "Zihindeki kuru bilgi insanı sadece bilgili yapar. Peki ruhu ne temizler? İman esaslarını zihninde tamamladın, şimdi büyük alimin ayak izlerini takip etme vakti." },
           { "type": "scholar", "scholarName": "İmam Gazali (k.s.)", "quote": "Bilesin ki yoldaş; amelsiz ilim delilik, ilimsiz amel ise hiçtir. Kalbini dünya hırslarından, kibirden, hasetten ve gösterişten arındırmadıkça, dille söylediğin 6 iman esası kalbine bir nur olarak inmez. Gerçek ilim, seni uykudan uyandırıp ahirete yöneltendir." },
           { "type": "reflection", "prompt": "Gazali'nin 'Amelsiz ilim deliliktir' sözünü kalbinde tarttığında; bu modülde öğrendiğin Tevhid, Melek ve Ahiret bilincini bugünden itibaren karakterine nasıl yansıtacaksın?" },
-          { "type": "mission", "content": "Bu ilk modülün büyük tacı olarak; bugün kibrini ve nefsini kıracak sert bir adım at. Birinin hatasını yüzüne vurup onu küçük düşürmek yerine, hatasını sevgiyle ve sessizce ört." }
+          { "type": "mission", "content": "Bugün kibrini ve nefsini kıracak sert bir adım at. Birinin hatasını yüzüne vurup onu küçük düşürmek yerine, hatasını sevgiyle ve sessizce ört." }
         ]
       }
     ]
@@ -105,7 +105,7 @@
           { "type": "knowledge", "title": "Şehadet ve Özgürlük ilanı", "content": "Eşhedü en lâ ilâhe illâllah ve eşhedü enne Muhammeden abdühû ve resûlüh. Bu cümle, insanın kula kul olmayı reddettiği, tüm geçici korkulardan ve putlaştırılmış arzulardan sıyrılıp sadece Allah'ın birliğini ve O'nun elçisini rehber kabul ettiğini haykırdığı en büyük özgürlük bildirgesidir." },
           { "type": "reflection", "prompt": "Günlük hayatında karşılaştığın adaletsizlikler karşısında 'Yalnızca Allah'a şahitlik ederim' bilinciyle yaşamak, sence seni dünyevi korkulardan nasıl arındırır?" },
           { "type": "quiz", "question": "Kelime-i Şehadet'te geçen ve Hz. Muhammed'in (s.a.v.) peygamberliğinden önce vurgulanan vasfı nedir?", "options": ["Rasûl (Elçi)", "Nebî (Haber getiren)", "Abd (Kul)", "Emin (Güvenilir)"], "answerIndex": 2, "aiHint": "Yoldaş, İslam'ın en büyük devrimi peygamberleri dahi ilahlaştırmayı reddetmesidir. Cümleyi hatırla: '...ve eşhedü enne Muhammeden abdühû...' Kul olmak elçi olmaktan önce gelir." },
-          { "type": "mission", "content": "Bugün dilinle Kelime-i Şehadet getirirken, kalbindeki tüm gizli dünyevi korkuları (beğenilmeme, rızık endişesi, yalnız kalma) zihninden tamamen sil ve özgürlüğü hisset." }
+          { "type": "mission", "content": "Bugün dilinle Kelime-i Şehadet getirirken, kalbindeki tüm gizli dünyevi korkuları (beğenilmeme, rızık endişesi, yalnız kalma) zihninden tamamen sil and özgürlüğü hisset." }
         ]
       },
       {
@@ -114,10 +114,10 @@
         "icon": "compass",
         "steps": [
           { "type": "hook", "content": "Dünyanın tüm stresi omuzlarındayken, zamanı tamamen durdurup direkt Yaratıcı ile baş başa konuşma fırsatın olsaydı, bu ilahi daveti kaçırır mıydın?" },
-          { "type": "knowledge", "title": "Günde 5 Kez Dünyadan Kopuş", "content": "Namaz sadece dikey ve yatay fiziksel bir ritüel değil, günde 5 kez dünyadan kopuş ve Allah'ın huzuruna çıkıştır. Peygamber Efendimiz (s.a.v.) namazı 'Müminin Miracı' yani kulun ruhen Allah'a yükselişi olarak tanımlamıştır." },
+          { "type": "knowledge", "title": "Günde 5 Kez Dünyadan Kopuş", "content": "Namaz sadece dikey ve yatay fiziksel bir ritüel değil, günde 5 kez dünyadan kopuş and Allah'ın huzuruna çıkıştır. Peygamber Efendimiz (s.a.v.) namazı 'Müminin Miracı' yani kulun ruhen Allah'a yükselişi olarak tanımlamıştır." },
           { "type": "reflection", "prompt": "Namaz kılarken zihninin başka yerlere (işe, sınava, günlük koşturmacalara) kaymasını engellemek için nasıl bir manevi odaklanma (huşu) yöntemi geliştirebilirsin?" },
           { "type": "quiz", "question": "Peygamber Efendimiz (s.a.v.) namaz ibadeti için hangi sarsıcı tanımı yapmıştır?", "options": ["Cennetin Kapısı", "Müminin Miracı", "Kalbin Şifası", "Kainatın Işığı"], "answerIndex": 1, "aiHint": "Mirac hadisesini düşün yoldaş. Peygamberimiz göklere yükselip Yaratıcı ile vasıtasız görüşmüştü. Müminler secdede bu yükselişi günde 5 kez nasıl yakalar?" },
-          { "type": "mission", "content": "Bugün kılacağın bir vakit namazını acele etmeden, okuduğun surelerin anlamına odaklanarak ve secdede 5 saniye fazladan kalarak yavaşça eda et." }
+          { "type": "mission", "content": "Bugün kılacağın bir vakit namazını acele etmeden, okuduğun surelerin anlamına odaklanarak and secdede 5 saniye fazladan kalarak yavaşça eda et." }
         ]
       },
       {
@@ -125,11 +125,11 @@
         "title": "3. Oruç: İradenin Zaferi",
         "icon": "sun",
         "steps": [
-          { "type": "hook", "content": "Açlık ve susuzluk insana nasıl bir içsel güç verebilir? Maddi beden zayıfladığında ruhun şahlandığını hiç hissettin mi?" },
-          { "type": "knowledge", "title": "Sadece Mideye Değil, Ruha Oruç", "content": "Oruç, sadece belirli saatlerde yemekten ve içmekten kesilmek değildir. Kamil manada oruç; dili yalandan, gözü haramdan, kalbi ise haset ve kötülükten korumaktır. İnsana biyolojik dürtülerinin kölesi değil, ruhunun hakimi olduğunu öğretir." },
+          { "type": "hook", "content": "Açlık and susuzluk insana nasıl bir içsel güç verebilir? Maddi beden zayıfladığında ruhun şahlandığını hiç hissettin mi?" },
+          { "type": "knowledge", "title": "Sadece Mideye Değil, Ruha Oruç", "content": "Oruç, sadece belirli saatlerde yemekten and içmekten kesilmek değildir. Kamil manada oruç; dili yalandan, gözü haramdan, kalbi ise haset and kötülükten korumaktır. İnsana biyolojik dürtülerinin kölesi değil, ruhunun hakimi olduğunu öğretir." },
           { "type": "reflection", "prompt": "Eğer bugün midenle birlikte diline de tam bir oruç tutturman gerekseydi (hiç gıybet yapmamak, hiç şikayet etmemek), senin için günün en zor dikey sınavı ne olurdu?" },
-          { "type": "quiz", "question": "İslam ahlakına göre gerçek ve kamil manada bir oruç ibadeti neyi kapsar?", "options": ["Sadece sahur ve iftar vakitlerine uymayı", "Sadece aç ve susuz kalmayı", "Bütün azaları ve kalbi günahlardan korumayı", "Sadece Ramazan ayında iyi davranmayı"], "answerIndex": 2, "aiHint": "Yoldaş, Efendimiz 'Yalan konuşmayı ve onunla amel etmeyi bırakmayan kimsenin aç kalmasına Allah'ın ihtiyacı yoktur' der. Demek ki oruç bir bütünlük sanatı." },
-          { "type": "mission", "content": "Bugün 12 saat boyunca hiçbir şeyden (havadan, işten, insanlardan) şikayet etmeme ve kimsenin gıybetini yapma orucu tut." }
+          { "type": "quiz", "question": "İslam ahlakına göre gerçek and kamil manada bir oruç ibadeti neyi kapsar?", "options": ["Sadece sahur and iftar vakitlerine uymayı", "Sadece aç and susuz kalmayı", "Bütün azaları and kalbi günahlardan korumayı", "Sadece Ramazan ayında iyi davranmayı"], "answerIndex": 2, "aiHint": "Yoldaş, Efendimiz 'Yalan konuşmayı and onunla amel etmeyi bırakmayan kimsenin aç kalmasına Allah'ın ihtiyacı yoktur' der. Demek ki oruç bir bütünlük sanatı." },
+          { "type": "mission", "content": "Bugün 12 saat boyunca hiçbir şeyden (havadan, işten, insanlardan) şikayet etmeme and kimsenin gıybetini yapma orucu tut." }
         ]
       },
       {
@@ -137,9 +137,9 @@
         "title": "4. Zekat: Paylaşmanın Estetiği",
         "icon": "heart",
         "steps": [
-          { "type": "hook", "content": "Sence sahip olduğun mal ve para gerçekten tamamen senin mi, yoksa sen sadece o serveti ihtiyaç sahiplerine ulaştırmakla görevli bir manevi veznedar mısın?" },
-          { "type": "knowledge", "title": "Arınma ve Sosyal Adalet", "content": "Zekat sözcük anlamı olarak 'arınma, temizlenme ve çoğalma' demektir. İslam, zenginlerin malında fakirlerin hakkı olduğunu ilan eder. Zekat, toplumdaki sınıfsal uçurumları sevgi ve köprülerle yıkan, mülk hissini kırıp kalbi cimrilikten arındıran mali bir farzdır." },
-          { "type": "reflection", "prompt": "Zekat ve sadaka verirken karşıdaki insanı incitmeden, üstten bakmadan, 'veren elin alan elden üstün olduğu' nezaketini nasıl koruyabiliriz?" },
+          { "type": "hook", "content": "Sence sahip olduğun mal and para gerçekten tamamen senin mi, yoksa sen sadece o serveti ihtiyaç sahiplerine ulaştırmakla görevli bir manevi veznedar mısın?" },
+          { "type": "knowledge", "title": "Arınma and Sosyal Adalet", "content": "Zekat sözcük anlamı olarak 'arınma, temizlenme and çoğalma' demektir. İslam, zenginlerin malında fakirlerin hakkı olduğunu ilan eder. Zekat, toplumdaki sınıfsal uçurumları sevgi and köprülerle yıkan, mülk hissini kırıp kalbi cimrilikten arındıran mali bir farzdır." },
+          { "type": "reflection", "prompt": "Zekat and sadaka verirken karşıdaki insanı incitmeden, üstten bakmadan, 'veren elin alan elden üstün olduğu' nezaketini nasıl koruyabiliriz?" },
           { "type": "quiz", "question": "Zekat ibadeti, dinen zengin sayılan bir müminin yılda bir kez malının dörde birini (yüzde kaçını) fakirlere vermesini zorunlu kılar?", "options": ["%1", "%2.5 (1/40)", "%5", "%10"], "answerIndex": 1, "aiHint": "Kırkta bir oranını matematiksel olarak hesapla yoldaş. Yüzdeye vurduğumuzda karşımıza çıkan asil oran toplumun dengesini kurmaya yeter." },
           { "type": "mission", "content": "Bugün cebindeki paraya bakmaksızın, birine tamamen karşılıksız bir sadaka ver veya bir sokak hayvanına yiyecek alarak zekat bilincini canlandır." }
         ]
@@ -149,11 +149,11 @@
         "title": "5. Hac: Eşitlik Mahşeri",
         "icon": "users",
         "steps": [
-          { "type": "hook", "content": "Tüm dünyevi kıyafetlerini, markalarını, ırkını ve makamını geride bırakıp, milyonlarca insanla birlikte kefeni simgeleyen bembeyaz bir beze bürünseydin ego diye bir şey kalır mıydı?" },
-          { "type": "knowledge", "title": "İhram Bilinci ve Kabe", "content": "Hac, imkanı olan her müminin ömründe bir kez Mekke'deki mukaddes mekanları ziyaret etmesidir. İhrama giren insan statülerden soyunur. Kral ile hamal, zengin ile fakir yan yana durur; hac, ölümün ve mahşerdeki o büyük eşitliğin dünya hayatındaki canlı provasıdır." },
-          { "type": "reflection", "prompt": "Hac ibadetindeki o 'statülerden ve egolardan tamamen sıyrılma' (ihram) ruhunu, hacca gitmeden günlük sosyal hayatına nasıl taşıyabilirsin?" },
-          { "type": "quiz", "question": "Haccın en önemli rükünlerinden biri olan ve Arefe günü Arafat denilen yerde bir süre kalmayı ifade eden kavram hangisidir?", "options": ["Tavaf", "Sa'y", "Vakfe", "İhram"], "answerIndex": 2, "aiHint": "Bu kelime 'durmak, duruş sergilemek' anlamına gelir. Kulun Allah'ın huzurunda acziyetle beklediği o muazzam anı hatırla." },
-          { "type": "mission", "content": "Bugün giyim kuşamınla, makamınla veya bilginle başkalarından üstün olduğunu iddia eden en ufak bir içsel düşüncen gelirse, hemen nefsini sustur ve eşitliği hatırla." }
+          { "type": "hook", "content": "Tüm dünyevi kıyafetlerini, markalarını, ırkını and makamını geride bırakıp, milyonlarca insanla birlikte kefeni simgeleyen bembeyaz bir beze bürünseydin ego diye bir şey kalır mıydı?" },
+          { "type": "knowledge", "title": "İhram Bilinci and Kabe", "content": "Hac, imkanı olan her müminin ömründe bir kez Mekke'deki mukaddes mekanları ziyaret etmesidir. İhrama giren insan statülerden soyunur. Kral ile hamal, zengin ile fakir yan yana durur; hac, ölümün and mahşerdeki o büyük eşitliğin dünya hayatındaki canlı provasıdır." },
+          { "type": "reflection", "prompt": "Hac ibadetindeki o 'statülerden and egolardan tamamen sıyrılma' (ihram) ruhunu, hacca gitmeden günlük sosyal hayatına nasıl taşıyabilirsin?" },
+          { "type": "quiz", "question": "Haccın en önemli rükünlerinden biri olan and Arefe günü Arafat denilen yerde bir süre kalmayı ifade eden kavram hangisidir?", "options": ["Tavaf", "Sa'y", "Vakfe", "İhram"], "answerIndex": 2, "aiHint": "Bu kelime 'durmak, duruş sergilemek' anlamına gelir. Kulun Allah'ın huzurunda acziyetle beklediği o muazzam anı hatırla." },
+          { "type": "mission", "content": "Bugün giyim kuşamınla, makamınla veya bilginle başkalarından üstün olduğunu iddia eden en ufak bir içsel düşüncen gelirse, hemen nefsini sustur and eşitliği hatırla." }
         ]
       },
       {
@@ -162,14 +162,14 @@
         "icon": "trophy",
         "steps": [
           { "type": "hook", "content": "Bu 5 şartı sadece bitirilmesi gereken kuru birer görev olarak mı görüyorsun, yoksa derin bir aşk buluşması mı? Rota şimdi sevgiye dönüyor..." },
-          { "type": "scholar", "scholarName": "Hz. Mevlânâ", "quote": "Aşıkların namazı da, orucu da, şehadeti de hiçbir vakit bitmez. Onlar, ayakta, otururken ve yanları üzerine yatarken hep O'nu anarlar. Çünkü gerçek ibadet, kalbin her atışında, atılan her adımda Sevgili'yi hatırlamak ve tüm İslam şartlarını bir aşk potasında eritmektir." },
-          { "type": "reflection", "prompt": "Mevlânâ'nın bu aşk dolu perspektifi, ibadetlere bakış açını nasıl değiştiriyor? 'Zorunluluk' ve 'şekilcilik' hissinden kalbi bir 'sevgi' katmanına nasıl geçebiliriz?" },
-          { "type": "mission", "content": "Bu modülün büyük tacı olarak; bugün yapacağın ilk ibadette veya edeceğin ilk duada, bunu bir kural olduğu için değil, Yaratıcı'yı çok sevdiğin ve O'na teşekkür etmek istediğin için saf bir aşkla yap." }
+          { "type": "scholar", "scholarName": "Hz. Mevlânâ", "quote": "Aşıkların namazı da, orucu da, şehadeti de hiçbir vakit bitmez. Onlar, ayakta, otururken and yanları üzerine yatarken hep O'nu anarlar. Çünkü gerçek ibadet, kalbin her atışında, atılan her adımda Sevgili'yi hatırlamak and tüm İslam şartlarını bir aşk potasında eritmektir." },
+          { "type": "reflection", "prompt": "Mevlânâ'nın bu aşk dolu perspektifi, ibadetlere bakış açını nasıl değiştiriyor? 'Zorunluluk' and 'şekilcilik' hissinden kalbi bir 'sevgi' katmanına nasıl geçebiliriz?" },
+          { "type": "mission", "content": "Bugün yapacağın ilk ibadetle veya edeceğin ilk duada, bunu bir kural olduğu için değil, Yaratıcı'yı çok sevdiğin and O'na teşekkür etmek istediğin için saf bir aşkla yap." }
         ]
       }
     ]
   },
- {
+  {
     "id": "module_3",
     "title": "Ahlak ve Nefs Terbiyesi",
     "description": "İçindeki cevheri parlat. Sabır, şükür, tevazu ve merhamet ile nefsini terbiye edip olgunlaş.",
@@ -180,11 +180,11 @@
         "title": "1. Sabır: Fırtınadaki Gizli Güç",
         "icon": "shield",
         "steps": [
-          { "type": "hook", "content": "Bazen hayatta her şey üst üste gelir ve boğuluyor gibi hissedersin. Peki, fırtınanın tam ortasındaki ağaçların neden daha güçlü kök saldığını hiç düşündün mi?" },
-          { "type": "knowledge", "title": "Sabr-ı Cemil: Güzel Sabır", "content": "Sabır, çaresizlikten dolayı pasif bir şekilde boyun eğmek veya katlanmak değildir. Sabır; fırtınaya karşı aktif bir dik duruş sergileyip, emeğinin ve gecenin sonunda güneşin mutlaka doğacağına olan sarsılmaz inançtır. Kur'an'da 'Şüphesiz Allah, sabredenlerle beraberdir' buyrulur." },
-          { "type": "reflection", "prompt": "Son zamanlarda sabrını ve sınırlarını en çok zorlayan olay neydi? Bu olaya Yaratıcı'nın sana sabır kaslarını güçlendirmek için sunduğu bir eğitim fırsatı olarak baksaydın, orada neyi fark ederdin?" },
-          { "type": "quiz", "question": "İslam'da övülen 'Güzel Sabır' (Sabr-ı Cemil) tam olarak ne anlama gelmektedir?", "options": ["İsyan etmeden, derdini ve acısını sadece Allah'a açarak dayanmak", "Sürekli insanlara dert yanıp şikayet ederek beklemek", "Hiçbir çaba göstermeden suçu kadere atmak", "Öfkeyle hareket edip sonradan pişman olmak"], "answerIndex": 0, "aiHint": "Hz. Yakup, oğlu Hz. Yusuf'u kaybettiğinde bu asil kelimeyi kullanmıştı: 'Bana düşen artık güzel bir sabırdır...' O, insanlara sızlanıp şikayet etmemişti yoldaş." },
-          { "type": "mission", "content": "Bugün seni çok sinirlendiren, haksızlığa uğratan ya da acele ettiren bir durumla karşılaştığında derin bir nefes al, 5 saniye bekle ve tepki vermeden önce sessizce gülümse." }
+          { "type": "hook", "content": "Bazen hayatta her şey üst üste gelir and boğuluyor gibi hissedersin. Peki, fırtınanın tam ortasındaki ağaçların neden daha güçlü kök saldığını hiç düşündün mi?" },
+          { "type": "knowledge", "title": "Sabr-ı Cemil: Güzel Sabır", "content": "Sabır, çaresizlikten dolayı pasif bir şekilde boyun eğmek veya katlanmak değildir. Sabır; fırtınaya karşı aktif bir dik duruş sergileyip, emeğinin and gecenin sonunda güneşin mutlaka doğacağına olan sarsılmaz inançtır. Kur'an'da 'Şüphesiz Allah, sabredenlerle beraberdir' buyrulur." },
+          { "type": "reflection", "prompt": "Son zamanlarda sabrını and sınırlarını en çok zorlayan olay neydi? Bu olaya Yaratıcı'nın sana sabır kaslarını güçlendirmek için sunduğu bir eğitim fırsatı olarak baksaydın, orada neyi fark ederdin?" },
+          { "type": "quiz", "question": "İslam'da övülen 'Güzel Sabır' (Sabr-ı Cemil) tam olarak ne anlama gelmektedir?", "options": ["İsyan etmeden, derdini and acısını sadece Allah'a açarak dayanmak", "Sürekli insanlara dert yanıp şikayet ederek beklemek", "Hiçbir çaba göstermeden suçu kadere atmak", "Öfkeyle hareket edip sonradan pişman olmak"], "answerIndex": 0, "aiHint": "Hz. Yakup, oğlu Hz. Yusuf'u kaybettiğinde bu asil kelimeyi kullanmıştı: 'Bana düşen artık güzel bir sabırdır...' O, insanlara sızlanıp şikayet etmemişti yoldaş." },
+          { "type": "mission", "content": "Bugün seni çok sinirlendiren, haksızlığa uğratan ya da acele ettiren bir durumla karşılaştığında derin bir nefes al, 5 saniye bekle and tepki vermeden önce sessizce gülümse." }
         ]
       },
       {
@@ -193,10 +193,10 @@
         "icon": "heart",
         "steps": [
           { "type": "hook", "content": "Sürekli eksik olanlara odaklanıp mutsuz olmak mı, yoksa elindekilerin değerini bilip içsel bir zenginliğe ulaşmak mı? Unutma, odaklandığın şey hayatında büyür." },
-          { "type": "knowledge", "title": "Şükür ve Artış Yasası", "content": "Şükür, sadece dille 'Elhamdülillah' demek değil, Yaratıcı'nın verdiği nimetleri O'nun razı olacağı şekilde doğru kullanmaktır. İlahi vaat çok nettir: 'Eğer şükrederseniz, nimetimi kesinlikle artırırım.' Şükür, ruhu şikayet hastalığından koruyan en güçlü kalkandır." },
+          { "type": "knowledge", "title": "Şükür and Artış Yasası", "content": "Şükür, sadece dille 'Elhamdülillah' demek değil, Yaratıcı'nın verdiği nimetleri O'nun razı olacağı şekilde doğru kullanmaktır. İlahi vaat çok nettir: 'Eğer şükrederseniz, nimetimi kesinlikle artırırım.' Şükür, ruhu şikayet hastalığından koruyan en güçlü kalkandır." },
           { "type": "reflection", "prompt": "Hayatında varlığına o kadar alışkın olduğun için artık sıradan gelen ama elinden alınsa dünyanı karartacak 3 büyük nimeti (sağlık, bir aile, görebilmek vb.) buraya yazıp üzerine tefekkür eder misin?" },
-          { "type": "quiz", "question": "Sahip olduğu nimetlerin kadrini bilmeyip onları küçümsemek veya yok saymak İslam ahlakında hangi kavramla ifade edilir?", "options": ["Küfrân-ı Nimet", "Kanaat", "Gaflet", "Riya"], "answerIndex": 0, "aiHint": "Bu kavram 'nimete karşı nankörlük etmek' anlamına gelir ve kalbi kurutan en tehlikeli nefsanî tuzaklardan biridir yoldaş." },
-          { "type": "mission", "content": "Bugün gün boyunca hiç kimseden ve hiçbir durumdan şikayet etme. Akşam uyumadan önce hayatındaki 5 güzel detay için kalpten teşekkür et." }
+          { "type": "quiz", "question": "Sahip olduğu nimetlerin kadrini bilmeyip onları küçümsemek veya yok saymak İslam ahlakında hangi kavramla ifade edilir?", "options": ["Küfrân-ı Nimet", "Kanaat", "Gaflet", "Riya"], "answerIndex": 0, "aiHint": "Bu kavram 'nimete karşı nankörlük etmek' anlamına gelir and kalbi kurutan en tehlikeli nefsanî tuzaklardan biridir yoldaş." },
+          { "type": "mission", "content": "Bugün gün boyunca hiç kimseden and hiçbir durumdan şikayet etme. Akşam uyumadan önce hayatındaki 5 güzel detay için kalpten teşekkür et." }
         ]
       },
       {
@@ -205,9 +205,9 @@
         "icon": "arrow-down",
         "steps": [
           { "type": "hook", "content": "Kibirlenerek burnunu dik tutanların sert rüzgarlarda nasıl kırıldığını, tevazuyla eğilen dalların ise nasıl ayakta kaldığını fark ettin mi? En verimli bitkiler nerede yetişir: Taşta mı, toprakta mı?" },
-          { "type": "knowledge", "title": "Kibir ve Tevazu Dengesi", "content": "Tevazu, insanın kendi acziyetini bilip insanlara karşı alçakgönüllü olmasıdır. Kibir ise kalpteki en sinsi virüstür; gerçeği reddetmek ve insanları küçük görmektir. Efendimiz (s.a.v.) 'Kalbinde zerre kadar kibir olan cennete giremez' buyurarak bizi bu tehlikeye karşı uyarır." },
+          { "type": "knowledge", "title": "Kibir and Tevazu Dengesi", "content": "Tevazu, insanın kendi acziyetini bilip insanlara karşı alçakgönüllü olmasıdır. Kibir ise kalpteki en sinsi virüstür; gerçeği reddetmek and insanları küçük görmektir. Efendimiz (s.a.v.) 'Kalbinde zerre kadar kibir olan cennete giremez' buyurarak bizi bu tehlikeye karşı uyarır." },
           { "type": "reflection", "prompt": "İçindeki nefs, seni hangi konularda (bilgin, zekan, dış görünüşün veya başarıların) diğer insanlardan üstün olduğuna ikna etmeye çalışıyor? Bu yanılsamayla nasıl savaşıyorsun?" },
-          { "type": "quiz", "question": "Peygamber Efendimiz'in (s.a.v.) bildirdiğine göre, Allah rızası için tevazu gösteren bir kulun akıbeti ne olur?", "options": ["İnsanlar gözünde değersizleşir", "Allah onun makamını ve değerini yükseltir", "Dünyevi işleri bozulur", "Kimse onu ciddiye almaz"], "answerIndex": 1, "aiHint": "İlahi adalet terstir yoldaş; kendini büyüten küçülür, Allah için kendini alçaltan ise göklere çıkarılır. Şıkkı buna göre seç." },
+          { "type": "quiz", "question": "Peygamber Efendimiz'in (s.a.v.) bildirdiğine göre, Allah rızası için tevazu gösteren bir kulun akıbeti ne olur?", "options": ["İnsanlar gözünde değersizleşir", "Allah onun makamını and değerini yükseltir", "Dünyevi işleri bozulur", "Kimse onu ciddiye almaz"], "answerIndex": 1, "aiHint": "İlahi adalet terstir yoldaş; kendini büyüten küçülür, Allah için kendini alçaltan ise göklere çıkarılır. Şıkkı buna göre seç." },
           { "type": "mission", "content": "Bugün arkadaş ortamında veya sosyal medyada haklı olsan bile sırf egonu tatmin etmek için tartışmaya girmekten vazgeç, konuyu tatlılıkla kapat." }
         ]
       },
@@ -216,11 +216,11 @@
         "title": "4. İhlas: Gösterişsiz Saf Kalp",
         "icon": "eye-off",
         "steps": [
-          { "type": "hook", "content": "Yaptığın harika bir iyiliği hiç kimse görmediğinde ve övmediğinde içten içe buruluyor musun? Yoksa 'Beni en iyi bilen biliyor' konforunda mısın?" },
-          { "type": "knowledge", "title": "Riya Hastalığı ve İhlas", "content": "İhlas, ibadetleri ve iyi amelleri sadece ve sadece Allah rızası için yapmaktır. Araya insanların beğenisini, 'Aferin' demelerini veya takdirlerini sıkıştırmaya ise 'Riya' (gösteriş) denir. Riya, amellerin sevabını yiyip bitiren manevi bir asittir." },
+          { "type": "hook", "content": "Yaptığın harika bir iyiliği hiç kimse görmediğinde and övmediğinde içten içe buruluyor musun? Yoksa 'Beni en iyi bilen biliyor' konforunda mısın?" },
+          { "type": "knowledge", "title": "Riya Hastalığı and İhlas", "content": "İhlas, ibadetleri and iyi amelleri sadece and sadece Allah rızası için yapmaktır. Araya insanların beğenisini, 'Aferin' demelerini veya takdirlerini sıkıştırmaya ise 'Riya' (gösteriş) denir. Riya, amellerin sevabını yiyip bitiren manevi bir asittir." },
           { "type": "reflection", "prompt": "Sosyal medyada bir iyiliği, yardımı ya da ibadeti paylaşma arzumuzun arkasında yatan asıl nefsanî dürtü sence nedir? İhlası korumak bu çağda neden daha zor?" },
-          { "type": "quiz", "question": "İbadet ve iyilikleri Allah rızası için değil de insanlara gösteriş yapmak, övgü almak amacıyla yapmaya ne ad verilir?", "options": ["Gıybet", "Riya", "Haset", "Ucub"], "answerIndex": 1, "aiHint": "Bu kelime 'ikiyüzlülük, görsünler diye yapmak' anlamına gelir ve gizli şirk olarak da adlandırılır yoldaş." },
-          { "type": "mission", "content": "Bugün sağ elinin verdiğini sol elinin bilmeyeceği, tamamen gizli, hiç kimseye anlatmayacağın ve asla paylaşmayacağın bir iyilik yap." }
+          { "type": "quiz", "question": "İbadet and iyilikleri Allah rızası için değil de insanlara gösteriş yapmak, övgü almak amacıyla yapmaya ne ad verilir?", "options": ["Gıybet", "Riya", "Haset", "Ucub"], "answerIndex": 1, "aiHint": "Bu kelime 'ikiyüzlülük, görsünler diye yapmak' anlamına gelir and gizli şirk olarak da adlandırılır yoldaş." },
+          { "type": "mission", "content": "Bugün sağ elinin verdiğini sol elinin bilmeyeceği, tamamen gizli, hiç kimseye anlatmayacağın and asla paylaşmayacağın bir iyilik yap." }
         ]
       },
       {
@@ -229,9 +229,9 @@
         "icon": "heart",
         "steps": [
           { "type": "hook", "content": "Sokakta titreyen bir kedi, hata yapmış çaresiz bir insan veya kalbi kırık bir çocuk gördüğünde içinde bir şeyler sızlıyor mu? O sızı, kalbindeki ilahi imzanın ta kendisidir." },
-          { "type": "knowledge", "title": "Merhamet Etmeyene Merhamet Edilmez", "content": "Merhamet, can taşıyan her varlığın acısını yüreğinde hissetmek ve o acıyı dindirmek için harekete geçmektir. İslam, şefkat dinidir. Efendimiz (s.a.v.) 'Yeryüzündekilere merhamet edin ki, gökyüzündekiler de size merhamet etsin' buyurmuştur." },
+          { "type": "knowledge", "title": "Merhamet Etmeyene Merhamet Edilmez", "content": "Merhamet, can taşıyan her varlığın acısını yüreğinde hissetmek and o acıyı dindirmek için harekete geçmektir. İslam, şefkat dinidir. Efendimiz (s.a.v.) 'Yeryüzündekilere merhamet edin ki, gökyüzündekiler de size merhamet etsin' buyurmuştur." },
           { "type": "reflection", "prompt": "Geçmişte sana büyük bir hata yapmış birine karşı adalet sınırlarını aşmadan, nefsini yenip merhamet göstermek sence ruhunu nasıl özgürleştirir?" },
-          { "type": "quiz", "question": "Peygamber Efendimiz'in (s.a.v.) kuşu ölen küçük bir çocuğa başsağlığına gitmesi, O'nun ahlakının en çok hangi yönünü vurgular?", "options": ["Adaletini", "Cesaretini", "Eşsiz Merhamet ve Şefkatini", "Cömertliğini"], "answerIndex": 2, "aiHint": "O, alemlere yalnızca bir fatih veya lider olarak değil; kalpleri titreyen, çocukların hüznüne ortak olan evrensel bir şefkat pınarı olarak gönderildi." },
+          { "type": "quiz", "question": "Peygamber Efendimiz'in (s.a.v.) kuşu ölen küçük bir çocuğa başsağlığına gitmesi, O'nun ahlakının en çok hangi yönünü vurgular?", "options": ["Adaletini", "Cesaretini", "Eşsiz Merhamet and Şefkatini", "Cömertliğini"], "answerIndex": 2, "aiHint": "O, alemlere yalnızca bir fatih veya lider olarak değil; kalpleri titreyen, çocukların hüznüne ortak olan evrensel bir şefkat pınarı olarak gönderildi." },
           { "type": "mission", "content": "Bugün bir sokak hayvanını besle, bir bitkiyi sula veya gün içinde kalbi kırık, yorgun görünen bir insana hal hatır sorup tebessüm et." }
         ]
       },
@@ -241,10 +241,10 @@
         "icon": "check-circle",
         "steps": [
           { "type": "hook", "content": "Küçük bir yalanın seni o anlık zor bir durumdan kurtaracağını bilsen bile, ruhunun o yalanla kirlenmesine izin verir miydin? Omurgalı bir duruşun bedeli nedir?" },
-          { "type": "knowledge", "title": "Sıdk ve İstikamet", "content": "Doğruluk (Sıdk), içiyle dışının, özüyle sözünün bir olması durumudur. Ayette belirtildiği gibi: 'Emrolunduğun gibi dosdoğru ol!' Yalan söyleyen insan, önce kendi ruhuna ihanet eder ve güven kalesini yıkar. Mümin, şaka bile olsa yalandan uzak durandır." },
+          { "type": "knowledge", "title": "Sıdk and İstikamet", "content": "Doğruluk (Sıdk), içiyle dışının, özüyle sözünün bir olması durumudur. Ayette belirtildiği gibi: 'Emrolunduğun gibi dosdoğru ol!' Yalan söyleyen insan, önce kendi ruhuna ihanet eder and güven kalesini yıkar. Mümin, şaka bile olsa yalandan uzak durandır." },
           { "type": "reflection", "prompt": "Toplumda işlerin daha hızlı yürümesi ya da insanları kırmamak adına söylenen 'beyaz yalanlar' sence zamanla karakterimizde nasıl bir tahribata yol açar?" },
           { "type": "quiz", "question": "Peygamberimize 'Bir mümin korkak veya cimri olabilir mi?' diye sorulduğunda 'Evet' demiş, fakat hangi günahı işleyemeyeceğini kesin bir dille belirtmiştir?", "options": ["Hata yapmak", "Yalan söylemek", "Fakir düşmek", "Öfkelenmek"], "answerIndex": 1, "aiHint": "Mümin insan zaaflara düşebilir ama asla kasıtlı olarak gerçeği tersyüz edip emniyet duygusunu yok edemez. Efendimizin en hassas olduğu çizgiyi hatırla." },
-          { "type": "mission", "content": "Bugün atacağın her adımda ve kuracağın her cümlede, en ufak bir abartıdan, çarpıtmadan veya beyaz yalandan tamamen uzak durarak dosdoğru ol." }
+          { "type": "mission", "content": "Bugün atacağın her adımda and kuracağın her cümlede, en ufak bir abartıdan, çarpıtmadan veya beyaz yalandan tamamen uzak durarak dosdoğru ol." }
         ]
       },
       {
@@ -252,15 +252,15 @@
         "title": "Bölüm Zirvesi: Yunus Emre",
         "icon": "trophy",
         "steps": [
-          { "type": "hook", "content": "Kütüphaneler dolusu kitap okusan, dünyadaki tüm kod dillerini bilsen bile, kendi kalbini ve nefsini okuyamadıktan sonra bunun bir anlamı var mı?" },
-          { "type": "scholar", "scholarName": "Yunus Emre", "quote": "İlim ilim bilmektir, ilim kendin bilmektir. Sen kendini bilmezsin, ya nice okumaktır! Yoldaş; dünyadaki en çetin, en asil savaş insanın kendi nefsiyle, kibriyle ve egosuyla yaptığı savaştır. Kendini bilen, Yaratıcısını bilir." },
+          { "type": "hook", "content": "Kütüphaneler dolusu kitap okusan, dünyadaki tüm kod dillerini bilsen bile, kendi kalbini and nefsini okuyamadıktan sonra bunun bir anlamı var mı?" },
+          { "type": "scholar", "scholarName": "Yunus Emre", "quote": "İlim ilim bilmektir, ilim kendin bilmektir. Sen kendini bilmezsin, ya nice okumaktır! Yoldaş; dünyadaki en çetin, en asil savaş insanın kendi nefsiyle, kibriyle and egosuyla yaptığı savaştır. Kendini bilen, Yaratıcısını bilir." },
           { "type": "reflection", "prompt": "Yunus Emre'nin bu sarsıcı uyarısını düşündüğünde; başkalarının kusurlarını aramayı bir kenara bırakıp aynayı tamamen kendine çevirsen, bugün düzeltmek isteyeceğin ilk huyun ne olurdu?" },
-          { "type": "mission", "content": "Bu ahlak modülünün büyük tacı olarak; bugün hiç kimseyi ama hiç kimseyi eleştirme. Zihninden geçen her olumsuz yargıda kendini sertçe durdur ve 'Benim de eksiklerim var' diyerek nefsine set çek." }
+          { "type": "mission", "content": "Bugün kimseyi eleştirme. Zihninden geçen her olumsuz yargıda kendini sertçe durdur and 'Benim de eksiklerim var' diyerek nefsine set çek." }
         ]
       }
     ]
   },
-{
+  {
     "id": "module_4",
     "title": "Siyer ve Peygamberler Tarihi",
     "description": "İnsanlığın en büyük fenerleri olan peygamberlerin hayat mücadelelerini, sabırlarını ve kutlu yürüyüşlerini keşfet.",
@@ -274,8 +274,7 @@
           { "type": "hook", "content": "Bir hata yaptıktan sonra günlerce suçluluk hissiyle ezilip kabuğuna mı çekilirsin, yoksa o hatayı Yaratıcı'ya yaklaşmak için bir tevbe basamağına mı dönüştürürsün?" },
           { "type": "knowledge", "title": "Zelle, İrade ve Arınma", "content": "Hz. Âdem, insanlığın ilk atasgıdır. Cennetteki yasak ağaca yaklaşarak işlediği o küçük hata (zelle) sonrası kibirlenip isyan eden İblis'in aksine, derin bir acziyetle hatasını kabul etmiştir. Günlerce gözyaşı dökerek 'Rabbimiz, biz kendimize zulmettik' diyerek tevbe etmiş ve insanlığa düştüğü yerden nasıl kalkacağını öğretmiştir." },
           { "type": "reflection", "prompt": "Hz. Âdem'in hatasından sonra tevbe ile yücelmesi, İblis'in ise hatasında direnip kibirlenerek helak olması sence bize hatalarımız karşısında nasıl bir ayna tutuyor?" },
-          { "type": "quiz", "question": "Hz. Âdem'in işlediği hatadan sonra şeytan gibi helak olmak yerine saf bir tevbe ile affedilmesini sağlayan en temel ahlaki vasfı nedir?",
-            "options": ["Korku", "Tevazu ve Acziyetini Kabul Etmek", "Öfke", "Dünyayı Terk Etmek"], "answerIndex": 1, "aiHint": "Şeytan 'Ben ondan üstünüm' diyerek kibirlendi; Âdem ise 'Rabbim ben nefsime zulmettim' dedi yoldaş. Aradaki o ince çizgiyi gör." },
+          { "type": "quiz", "question": "Hz. Âdem'in işlediği hatadan sonra şeytan gibi helak olmak yerine saf bir tevbe ile affedilmesini sağlayan en temel ahlaki vasfı nedir?", "options": ["Korku", "Tevazu ve Acziyetini Kabul Etmek", "Öfke", "Dünyayı Terk Etmek"], "answerIndex": 1, "aiHint": "Şeytan 'Ben ondan üstünüm' diyerek kibirlendi; Âdem ise 'Rabbim ben nefsime zulmettim' dedi yoldaş. Aradaki o ince çizgiyi gör." },
           { "type": "mission", "content": "Bugün geçmişte yaptığın ve kalbini tırmalayan bir hatanı hatırla. Kimseler görmeden secdeye kapan ve Hz. Âdem'in o asil tevbe duasıyla kalbini yıka." }
         ]
       },
@@ -287,8 +286,7 @@
           { "type": "hook", "content": "Çevrendeki herkes seninle alay etse, inandığın değerler yüzünden seni yalnız bıraksa bile, kupkuru bir çölde o gemiyi inşa etmeye devam edebilir miydin?" },
           { "type": "knowledge", "title": "950 Yıllık Sabır Daveti", "content": "Hz. Nuh, kavmini tam 950 yıl boyunca bıkmadan, usanmadan tek bir Allah'a inanmaya davet etmiştir. İnsanlar onunla dalga geçerken, o dağların tepesinde ilahi emirle bir gemi inşa etmiştir. Nuh'un gemisi, sadece tahtadan bir yapı değil; tüm dünyaya sırtını dönüp sadece Allah'ın vaadine sığınanların kurtuluş sembolüdür." },
           { "type": "reflection", "prompt": "Kupkuru bir toprakta gemi yapmak zahiren delilik gibi görünürken, batıni olarak muazzam bir imandır. Hayatında herkesin 'olmaz' dediği ama senin Allah'a güvenerek yürüdün bir 'gemi' inşa sürecin oldu mu?" },
-          { "type": "quiz", "question": "Kur'an-ı Kerim'de azim ve kararlılıkları nedeniyle en yüksek mertebede kabul edilen ve aralarında Hz. Nuh'un da bulunduğu peygamber grubuna ne ad verilir?",
-            "options": ["Ashab-ı Kehf", "Ulul'azm Peygamberler", "Mukarrebûn", "Mürselîn"], "answerIndex": 1, "aiHint": "Bu kelime 'azim ve büyük kararlılık sahipleri' anlamına gelir ve tarihin en çetin imtihanlarından geçen 5 büyük peygamberi kapsar." },
+          { "type": "quiz", "question": "Kur'an-ı Kerim'de azim ve kararlılıkları nedeniyle en yüksek mertebede kabul edilen ve aralarında Hz. Nuh'un da bulunduğu peygamber grubuna ne ad verilir?", "options": ["Ashab-ı Kehf", "Ulul'azm Peygamberler", "Mukarrebûn", "Mürselîn"], "answerIndex": 1, "aiHint": "Bu kelime 'azim ve büyük kararlılık sahipleri' anlamına gelir ve tarihin en çetin imtihanlarından geçen 5 büyük peygamberi kapsar." },
           { "type": "mission", "content": "Bugün hedeflerinden veya inancından dolayı seni aşağı çekmeye çalışan, enerjini emen olumsuz seslere kulaklarını tamamen kapat ve kendi manevi gemini inşa etmeye odaklan." }
         ]
       },
@@ -300,8 +298,7 @@
           { "type": "hook", "content": "İnandığın doğrular uğruna tüm dünyayı karşına alsan ve seni devasa bir ateşin içine fırlatsalar, 'Bana sadece Allah yeter' diyerek o ateşe yürüyebilir miydin?" },
           { "type": "knowledge", "title": "Halilullah ve Tevekkül Zirvesi", "content": "Hz. İbrahim, putları tek başına deviren bir tevhid kahramanıdır. Nemrut onu mancınıkla dev bir ateşe atarken melekler yardıma gelmiş, fakat o: 'Hasbünallahu ve ni'mel vekil' (Allah bana yeter, O ne güzel vekildir) diyerek yardımı reddetmiştir. Bu muazzam teslimiyet karşısında ateş soğumuş ve onun için bir gül bahçesine dönüşmüştür." },
           { "type": "reflection", "prompt": "İbrahimî bir teslimiyet, sence bugün hayatımızda karşılaştığımız maddi ve manevi sıkıntıların (ateşlerin) bizi yakmasını nasıl engeller?" },
-          { "type": "quiz", "question": "Hz. İbrahim'e Allah'a olan o tarifsiz sadakati ve dostluğu sebebiyle verilen ve 'Allah'ın Dostu' anlamına gelen asil lakap hangisidir?",
-            "options": ["Kelîmullah", "Halîlullah", "Habîbullah", "Rûhullah"], "answerIndex": 1, "aiHint": "Hz. Musa Allah ile konuştuğu için Kelîmullah'tır, Efendimiz ise Habîbullah'tır. İbrahim'in lakabı ise 'samimi dost' kökünden gelir." },
+          { "type": "quiz", "question": "Hz. İbrahim'e Allah'a olan o tarifsiz sadakati ve dostluğu sebebiyle verilen ve 'Allah'ın Dostu' anlamına gelen asil lakap hangisidir?", "options": ["Kelîmullah", "Halîlullah", "Habîbullah", "Rûhullah"], "answerIndex": 1, "aiHint": "Hz. Musa Allah ile konuştuğu için Kelîmullah'tır, Efendimiz ise Habîbullah'tır. İbrahim'in lakabı ise 'samimi dost' kökünden gelir." },
           { "type": "mission", "content": "Bugün hayatında seni sıkan, yakan bir dert (ateş) hissettiğin an dilini ve kalbini 'Hasbünallahu ve ni'mel vekil' zikriyle kilitle ve teslimiyetin serinliğini hisset." }
         ]
       },
@@ -313,8 +310,7 @@
           { "type": "hook", "content": "Kardeşlerin seni kuyuya atsa, köle diye satılsan ve zindanlara atılsan yine de kalbini nefretle kirletmeden o asil, temiz ahlakını koruyabilir miydin?" },
           { "type": "knowledge", "title": "Ahsenü'l-Kasas: Kıssaların En Güzeli", "content": "Hz. Yusuf'un hayatı tam bir sabır ve iffet dersidir. Züleyha'nın tüm dünyevi cazibesiyle yaptığı haram teklife 'Allah'a sığınırım' diyerek arkasını dönmüş, iftiraya uğrayıp yıllarca zindanda kalmıştır. Ama asla isyan etmemiş, kuyudan Mısır'a sultan olmuştur. Güce kavuştuğunda ise kendisine zulmeden kardeşlerini affetmiştir." },
           { "type": "reflection", "prompt": "Hz. Yusuf'un harama karşı kaçarak zindanı tercih etmesi, günümüz modern dünyasında her köşeden bizi kuşatan dijital haramlara karşı bize nasıl bir duruş öğretiyor?" },
-          { "type": "quiz", "question": "Kur'an-ı Kerim'de sadece Hz. Yusuf'un hayat hikayesi için kullanılan ve 'Kıssaların en güzeli' anlamına gelen edebi tanım hangisidir?",
-            "options": ["Esrârü'l-Ârifîn", "Ahsenü'l-Kasas", "Kısas-ı Enbiyâ", "Füsûsü'l-Hikem"], "answerIndex": 1, "aiHint": "Yusuf Suresi'nin hemen başında geçen bu kelime, içinde barındırdığı edebi, psikolojik ve manevi derinlik yüzünden bu unvanı almıştır." },
+          { "type": "quiz", "question": "Kur'an-ı Kerim'de sadece Hz. Yusuf'un hayat hikayesi için kullanılan ve 'Kıssaların en güzeli' anlamına gelen edebi tanım hangisidir?", "options": ["Esrârü'l-Ârifîn", "Ahsenü'l-Kasas", "Kısas-ı Enbiyâ", "Füsûsü'l-Hikem"], "answerIndex": 1, "aiHint": "Yusuf Suresi'nin hemen başında geçen bu kelime, içinde barındırdığı edebi, psikolojik ve manevi derinlik yüzünden bu unvanı almıştır." },
           { "type": "mission", "content": "Bugün internette veya sokakta karşına çıkacak, seni cezbeden ama ruhunu kirletecek haram bir görsele/videoya denk geldiğinde 'Maazallah' (Allah'a sığınırım) de ve ekranı kapat." }
         ]
       },
@@ -326,8 +322,7 @@
           { "type": "hook", "content": "Doğmadan yetim, küçük yaşta öksüz kalsan; doğup büyüdüğün şehirden sürülüp taşlansan yine de alemlere yalnızca 'merhamet' olarak kalabilir miydin?" },
           { "type": "knowledge", "title": "Güllerin Efendisi ve Siyer Özü", "content": "Hz. Muhammed (s.a.v.), peygamberlik zincirinin son halkasıdır. O, cahiliye karanlığına gömülmüş, kız çocuklarını diri diri toprağa gömen bir toplumu 23 yılda dünyanın en medeni, en ahlaklı nesline (Ashab-ı Kiram) dönüştürmüştür. Hayatı boyunca hiç yalan söylememiş, düşmanları bile O'na güvenmiştir. O, intikam gücüne sahip olduğu Mekke'nin fethi gününde bile herkesi affetmiştir." },
           { "type": "reflection", "prompt": "Efendimizin (s.a.v.) hayatındaki o muazzam dengeyi (evde şefkatli bir baba, savaşta cesur bir komutan, secdede gözü yaşlı bir kul) düşündüğünde, senin hayatında en çok hangi yönün eksik kalıyor?" },
-          { "type": "quiz", "question": "Peygamber Efendimiz'in (s.a.v.) Kur'an-ı Kerim'de belirtilen ve tüm insanlığı, hatta kainatı kapsayan en temel gönderiliş amacı nedir?",
-            "options": ["Sadece Araplara rehber olmak", "Alemlere rahmet olarak gönderilmesi", "Dünyevi bir imparatorluk kurmak", "Sadece ibadet şekillerini öğretmek"], "answerIndex": 1, "aiHint": "Enbiya Suresi 107. ayeti hatırla yoldaş: 'Biz seni ancak...' O'nun kalbi tüm can taşıyan varlıklar için atan bir şefkat okyanusuydu." },
+          { "type": "quiz", "question": "Peygamber Efendimiz'in (s.a.v.) Kur'an-ı Kerim'de belirtilen ve tüm insanlığı, hatta kainatı kapsayan en temel gönderiliş amacı nedir?", "options": ["Sadece Araplara rehber olmak", "Alemlere rahmet olarak gönderilmesi", "Dünyevi bir imparatorluk kurmak", "Sadece ibadet şekillerini öğretmek"], "answerIndex": 1, "aiHint": "Enbiya Suresi 107. ayeti hatırla yoldaş: 'Biz seni ancak...' O'nun kalbi tüm can taşıyan varlıklar için atan bir şefkat okyanusuydu." },
           { "type": "mission", "content": "Bugün Efendimizin az bilinen bir sünnetini hayatına geçir: Bir insanla konuşurken ona tüm bedeninle dönerek dinle ve ona kendini değerli hissettir." }
         ]
       },
@@ -339,7 +334,7 @@
           { "type": "hook", "content": "Herkesin 'Yalan söylüyor' dediği bir anda, hiç tereddüt etmeden 'O söylüyorsa doğrudur' diyebilecek kadar sadık bir dost olabildin mi?" },
           { "type": "scholar", "scholarName": "Hz. Ebubekir es-Sıddîk (r.a.)", "quote": "Yoldaş; malını Allah yolunda tamamen harcamaktan korkma. Ben Efendimizin (s.a.v.) arkasında öyle bir durdum ki, canım da malım da o kutlu davanın yoluna feda oldu. Mirac hadisesinde herkes şüpheye düşerken, kalbimdeki asil iman bana 'O söylüyorsa doğrudur' dedirtti. Gerçek sadakat, akıl süzgecini sevginin ve teslimiyetin potasında eriterek Sıddîk olabilmektir." },
           { "type": "reflection", "prompt": "Hz. Ebubekir'in o muazzam 'Sıddîk' (dosdoğru ve gözü kapalı onaylayan) vasfını düşündüğünde, senin İslam'ın emirlerine karşı teslimiyetinde tereddütlerin var mı? Nasıl aşabilirsin?" },
-          { "type": "mission", "content": "Bu siyer modülünün büyük tacı olarak; bugün en yakın dostunun arkasından gıybet yapılabilecek bir ortamda tıpkı Ebubekir gibi duruş sergile. Dostunun hukukunu savun ve o meclisi dosdoğru terk et." }
+          { "type": "mission", "content": "Bu siyer modülünün büyük tacı olarak; bugün en yakın dostunun arkasından gıybet yapılapbilecek bir ortamda tıpkı Ebubekir gibi duruş sergile. Dostunun hukukunu savun ve o meclisi dosdoğru terk et." }
         ]
       }
     ]
@@ -356,10 +351,9 @@
         "icon": "phone",
         "steps": [
           { "type": "hook", "content": "Koskoca evrende ne kadar küçük olduğunu hissettiğin o çaresizlik anlarında, sesini hiçbir aracı olmadan direkt galaksilerin yaratıcısına duyurabildiğini bilmek nasıl bir duygu?" },
-          { "type": "knowledge", "title": "Duasız İnsan ve İbadetin Özü", "content": "Dua, kulun acziyetini anlayıp sonsuz kudret sahibi olan Allah'a sığınmasıdır. Ayette açıkça meydan okunur: 'Duanız olmasa Rabbim size ne diye değer versin?' Dua, sadece bir istek listesi değil; kul ile Allah arasındaki en saf, en samimi dikey konuşma kanalıdır. O, ibadetin ta kendisidir." },
+          { "type": "knowledge", "title": "Duasız İnsan ve İbadetin Özü", "content": "Dua, kulun acziyetini anlayıp sonsuz kudret sahibi olan Allah'a sığınmasıdır. Ayette açıkça meydan okunur: 'Duanız olmasa Rabbim size ne diye değer versin?' Dua, sadece bir istek listesi değil; kul ile Allah arasındaki en sahîmî, en samimi dikey konuşma kanalıdır. O, ibadetin ta kendisidir." },
           { "type": "reflection", "prompt": "Dualarının hemen kabul olmamasının aslında senin için bir şerri engellemek veya seni daha büyük bir manevi olgunluğa taşımaktır. Bu ilahi zamanlama konforunu hayatında hiç hissettin mi?" },
-          { "type": "quiz", "question": "Peygamber Efendimiz'in (s.a.v.) hadis-i şeriflerinde dua ibadeti için yaptığı o meşhur ve sarsıcı tanım hangisidir?",
-            "options": ["İbadetin süsüdür", "Müminin silahı ve ibadetin özüdür", "Gecenin nurudur", "Kalbin cilasıdır"], "answerIndex": 1, "aiHint": "Karanlık dünyevi dertlere ve şeytanın vesveselerine karşı kuşanabileceğin en keskin kalkanı ve ibadetlerin içindeki o gizli iliği düşün yoldaş." },
+          { "type": "quiz", "question": "Peygamber Efendimiz'in (s.a.v.) hadis-i şeriflerinde dua ibadeti için yaptığı o meşhur ve sarsıcı tanım hangisidir?", "options": ["İbadetin süsüdür", "Müminin silahı ve ibadetin özüdür", "Gecenin nurudur", "Kalbin cilasıdır"], "answerIndex": 1, "aiHint": "Karanlık dünyevi dertlere ve şeytanın vesveselerine karşı kuşanabileceğin en keskin kalkanı ve ibadetlerin içindeki o gizli iliği düşün yoldaş." },
           { "type": "mission", "content": "Bugün edeceğin duada dünyevi hiçbir şey (para, mal, okul) isteme; sadece Yaratıcıya olan sevgini haykır ve O'ndan seni Kendisine kul etmesini dile." }
         ]
       },
@@ -369,10 +363,9 @@
         "icon": "activity",
         "steps": [
           { "type": "hook", "content": "Zihnin gün içindeki binlerce düşünce, kaygı ve negatif gürültüyle boğulurken, tek bir kelimenin tüm o dalgaları mermer gibi sakinleştirebileceğini biliyor musun?" },
-          { "type": "knowledge", "title": "Mutmain Kalplerin Reçetesi", "content": "Zikir, Allah'ı anmak, O'nu kalpte sürekli uyanık tutmaktır. Ayet kalbimize şifayı şak diye bırakır: 'Bilesiniz ki, kalpler ancak Allah'ı anmakla mutmain (huzurlu, tatmin) olur.' Düzenli zikir, insanın beyin dalgalarını sakinleştirir, nefsanî dürtüleri törpüler ve ruhu sürekli ilahi huzurda yaşatır." },
+          { "type": "knowledge", "title": "Mutmain Kalplerin Reçetesi", "content": "Zikir, Allah'ı anmak, O'nu kalatte sürekli uyanık tutmaktır. Ayet kalbimize şifayı şak diye bırakır: 'Bilesiniz ki, kalpler ancak Allah'ı anmakla mutmain (huzurlu, tatmin) olur.' Düzenli zikir, insanın beyin dalgalarını sakinleştirir, nefsanî dürtüleri törpüler ve ruhu sürekli ilahi huzurda yaşatır." },
           { "type": "reflection", "prompt": "Gün içinde dilimizi boş konuşmalar, dedikodular veya şikayetler yerine zikirle (Subhanallah, Elhamdülillah) ıslatmak sence ahlakımızı nasıl dönüştürür?" },
-          { "type": "quiz", "question": "Allah'ı unutarak yaşayan ve zikrinden uzaklaşan bir insanın ruhsal akıbeti hakkında Tâhâ Suresi'nde ne buyrulmaktadır?",
-            "options": ["Zengin bir hayat yaşar", "Onun için sıkıntılı, dar bir geçim (bunalım) vardır", "Hiçbir şey değişmez", "Dünyanın hakimi olur"], "answerIndex": 1, "aiHint": "Maddi olarak her şeye sahip olsa bile kalbi daralan, içsel bir boşluk ve depar atan anksiyete içinde kıvranan modern insanı düşün dostum." },
+          { "type": "quiz", "question": "Allah'ı unutarak yaşayan ve zikrinden uzaklaşan bir insanın ruhsal akıbeti hakkında Tâhâ Suresi'nde ne buyrulmaktadır?", "options": ["Zengin bir hayat yaşar", "Onun için sıkıntılı, dar bir geçim (bunalım) vardır", "Hiçbir şey değişmez", "Dünyanın hakimi olur"], "answerIndex": 1, "aiHint": "Maddi olarak her şeye sahip olsa bile kalbi daralan, içsel bir boşluk ve depar atan anksiyete içinde kıvranan modern insanı düşün dostum." },
           { "type": "mission", "content": "Bugün eline zikirmatiğini al veya parmaklarınla; tam bir odaklanmayla, kelimeleri kalbinde hissederek 100 defa 'Estagfirullah' çekerek ruhunu yıka." }
         ]
       },
@@ -384,8 +377,7 @@
           { "type": "hook", "content": "Seni senden daha iyi bilen, en gizli dertlerini gören ve kalbine her an şifa fısıldayan bir gücü O'nun en asil unvanlarıyla tanımaya hazır mısın?" },
           { "type": "knowledge", "title": "En Güzel İsimler ve Esma Tecellisi", "content": "Esmaül Hüsna, Allah'ın 99 en güzel ismidir. Bu isimleri bilmek sadece ezberlemek değil, o isimlerin evrendeki ve kendi hayatındaki tecellilerini okumaktır. O esmalarla dua etmek duaların kabul kapısını aralar. O'nu tanıdıkça korkuların sevgiye ve hayranlığa dönüşür." },
           { "type": "reflection", "prompt": "Allah'ın 'El-Basîr' (Her şeyi gören) ve 'El-Latîf' (En sinsi detaylara bile lütufta bulunan) isimlerini düşünmek, yalnızlık ve çaresizlik hissini nasıl yok eder?" },
-          { "type": "quiz", "question": "Allah'ın Esmaül Hüsna'sından olan ve 'Hataları çokça bağışlayan, tövbeleri sürekli kabul eden' anlamına gelen ismi hangisidir?",
-            "options": ["El-Cebbâr", "Et-Tevvâb", "El-Müntakim", "El-Kahhâr"], "answerIndex": 1, "aiHint": "Kul kuyuya her düştüğünde elinden tutan, yüz bin defa bozsa da tövbesini kabul eden o sonsuz şefkat ismini arıyoruz yoldaş." },
+          { "type": "quiz", "question": "Allah'ın Esmaül Hüsna'sından olan ve 'Hataları çokça bağışlayan, tövbeleri sürekli kabul eden' anlamına gelen ismi hangisidir?", "options": ["El-Cebbâr", "Et-Tevvâb", "El-Müntakim", "El-Kahhâr"], "answerIndex": 1, "aiHint": "Kul kuyuya her düştüğünde elinden tutan, yüz bin defa bozsa da tövbesini kabul eden o sonsuz şefkat ismini arıyoruz yoldaş." },
           { "type": "mission", "content": "Bugün Esmaül Hüsna listesinden 'Ya Vedûd' (Sevgiyi yaratan, çok seven) ismini seç ve gün içinde kalbinden 33 kez geçirerek insanlara sevgiyle bak." }
         ]
       },
@@ -402,7 +394,7 @@
       }
     ]
   },
-{
+  {
     "id": "module_6",
     "title": "İslam Düşüncesi ve Bilim Tarihi",
     "description": "Zihni ilimle parlat. Kur'an'ın 'Hiç düşünmez misiniz?' ayetini rehber edinerek dünyayı aydınlatan Müslüman alimleri keşfet.",
@@ -414,11 +406,9 @@
         "icon": "lightbulb",
         "steps": [
           { "type": "hook", "content": "Sence bilim ve inanç birbirine düşman iki kutup mudur? Yoksa gerçek bilim, Yaratıcı'nın evrene yazdığı o muazzam kodları okuma sanatı mıdır?" },
-          { "type": "knowledge", "title": "Ayat-ı Tekvîniyye: Evren Kitabı",
-            "content": "İslam medeniyetinde din ile bilim asla ayrılmamıştır. Kur'an ayetleri (Kelamî Ayetler) ile evrendeki fizik, kimya, astronomi kanunları (Tekvîni Ayetler) aynı kaynaktan gelir. Müslüman alimler laboratuvara girdiklerinde ibadet bilinciyle çalışmışlardır. Bu yüzden tıp, matematik ve astronomide dünyaya yüzyıllarca öncülük etmişlerdir." },
+          { "type": "knowledge", "title": "Ayat-ı Tekvîniyye: Evren Kitabı", "content": "İslam medeniyetinde din ile bilim asla ayrılmamıştır. Kur'an ayetleri (Kelamî Ayetler) ile evrendeki fizik, kimya, astronomi kanunları (Tekvîni Ayetler) aynı kaynaktan gelir. Müslüman alimler laboratuvara girdiklerinde ibadet bilinciyle çalışmışlardır. Bu yüzden tıp, matematik ve astronomide dünyaya yüzyıllarca öncülük etmişlerdir." },
           { "type": "reflection", "prompt": "Kur'an'ın yüzlerce kez 'Aklınızı kullanın', 'Yeryüzünü gezip inceleyin' demesini düşündüğünde, bir mühendisin veya bilim insanının işini iyi yapması sence neden bir ibadettir?" },
-          { "type": "quiz", "question": "İslam inancına göre evrene koyulan fiziksel, kimyasal ve biyolojik düzen kurallarının tamamına ne ad verilir?",
-            "options": ["Adetullah / Sünnetullah", "Fıkıh", "Kelâm", "Kelime-i Tevhid"], "answerIndex": 0, "aiHint": "Bu kelime 'Allah'ın evrende carî olan yasaları ve düzeni' anlamına gelir. Yerçekimi de, suyun kaldırma kuvveti de bu ilahi sistemin birer parçasıdır yoldaş." },
+          { "type": "quiz", "question": "İslam inancına göre evrene koyulan fiziksel, kimyasal ve biyolojik düzen kurallarının tamamına ne ad verilir?", "options": ["Adetullah / Sünnetullah", "Fıkıh", "Kelâm", "Kelime-i Tevhid"], "answerIndex": 0, "aiHint": "Bu kelime 'Allah'ın evrende carî olan yasaları ve düzeni' anlamına gelir. Yerçekimi de, suyun kaldırma kuvveti de bu ilahi sistemin birer parçasıdır yoldaş." },
           { "type": "mission", "content": "Bugün ilgilendiğin bilimsel, teknik veya mesleki bir konuyu (okuduğun makaleyi, yazdığın bir kodu) sırf Allah'ın ilmini keşfetmek ve insanlığa faydalı olmak niyetiyle baştan oku." }
         ]
       },
@@ -428,11 +418,9 @@
         "icon": "binary",
         "steps": [
           { "type": "hook", "content": "Eğer bugün bilgisayarlar, yapay zeka modelleri ve telefonlar çalışıyorsa; bunun 1200 yıl önce Bağdat'ta 'sıfır' rakamını matematiğe kazandıran Müslüman bir dehaya bağlı olduğunu biliyor muydun?" },
-          { "type": "knowledge", "title": "Cebrin Babası",
-            "content": "Hârizmî, Beytülhikme'de (Bilgelik Evi) yaşamış dev bir matematikçidir. Dünyadaki ilk cebir kitabını yazmış ve matematiğe 'sıfır' (es-sıfr) kavramını hediye etmiştir. Batı dillerinde kullanılan 'Algebra' (Cebir) ve 'Algorithm' (Algoritma) kelimeleri doğrudan onun isminden ve kitabından türetilmiştir. O, denklemleri çözerken ilahi adaletin dengesini aramıştır." },
+          { "type": "knowledge", "title": "Cebrin Babası", "content": "Hârizmî, Beytülhikme'de (Bilgelik Evi) yaşamış dev bir matematikçidir. Dünyadaki ilk cebir kitabını yazmış ve matematiğe 'sıfır' (es-sıfr) kavramını hediye etmiştir. Batı dillerinde kullanılan 'Algebra' (Cebir) ve 'Algorithm' (Algoritma) kelimeleri doğrudan onun isminden ve kitabından türetilmiştir. O, denklemleri çözerken ilahi adaletin dengesini aramıştır." },
           { "type": "reflection", "prompt": "Bir bilgisayar mühendisi veya yazılımcı olarak her gün kullandığın 'Algoritma' kelimesinin kökeninin Hârizmî'ye dayanması sana manevi ve mesleki olarak nasıl bir sorumluluk yüklüyor?" },
-          { "type": "quiz", "question": "Matematik ve yazılım dünyasının temelini oluşturan 'Algoritma' kelimesi, hangi büyük Müslüman alimin isminin Batı dillerinde telaffuz edilmesinden türetilmiştir?",
-            "options": ["İbn-i Sînâ", "El-Hârizmî", "Birûnî", "Farabî"], "answerIndex": 1, "aiHint": "Yazdığın kodlardaki o mantıksal sıralama adımları, onun 'Kitabü'l-Cebr ve'l-Mukabele' kitabındaki hesaplama metodolojisinden miras kalmıştır." },
+          { "type": "quiz", "question": "Matematik ve yazılım dünyasının temelini oluşturan 'Algoritma' kelimesi, hangi büyük Müslüman alimin isminin Batı dillerinde telaffuz edilmesinden türetilmiştir?", "options": ["İbn-i Sînâ", "El-Hârizmî", "Birûnî", "Farabî"], "answerIndex": 1, "aiHint": "Yazdığın kodlardaki o mantıksal sıralama adımları, onun 'Kitabü'l-Cebr ve'l-Mukabele' kitabındaki hesaplama metodolojisinden miras kalmıştır." },
           { "type": "mission", "content": "Bugün yazdığın bir kodda veya çözdüğün bir mantıksal problemde, zihnindeki o muazzam işlem yapma yeteneğini (akıl nimetini) sana veren Yaratıcıya şükret." }
         ]
       },
@@ -442,11 +430,9 @@
         "icon": "activity",
         "steps": [
           { "type": "hook", "content": "Avrupalıların 'Avicenna' dediği ve kitaplarını 600 yıl boyunca üniversitelerinde tıp ders kitabı olarak okuttuğu, her tıkandığında camiye gidip şükür namazı kılan o dahi doktoru tanıyor musun?" },
-          { "type": "knowledge", "title": "Şeyhü'r-Reîs ve El-Kanun fi't-Tıb",
-            "content": "İbn-i Sînâ, sadece tıp değil; felsefe, astronomi ve geometri alanında binlerce eser bırakmış bir dâhidir. Onun yazdığı 'El-Kanun fi't-Tıb' (Tıbbın Kanunu) eseri modern tıbbın temelidir. O, çözemediği karmaşık bir bilimsel problemle karşılaştığında abdest alır, camiye gider ve zihninin açılması için Yaratıcıya secde ederdi. İlim, onun için Allah'a giden yoldur." },
+          { "type": "knowledge", "title": "Şeyhü'r-Reîs ve El-Kanun fi't-Tıb", "content": "İbn-i Sînâ, sadece tıp değil; felsefe, astronomi ve geometri alanında binlerce eser bırakmış bir dâhidir. Onun yazdığı 'El-Kanun fi't-Tıb' (Tıbbın Kanunu) eseri modern tıbbın temelidir. O, çözemediği karmaşık bir bilimsel problemle karşılaştığında abdest alır, camiye gider ve zihninin açılması için Yaratıcıya secde ederdi. İlim, onun için Allah'a giden yoldur." },
           { "type": "reflection", "prompt": "İbn-i Sînâ'nın tıkandığı bilimsel problemlerde laboratuvardan seccadeye koşması, seküler dünyanın 'bilim inancı yok eder' iddiasına nasıl bir dikey cevap veriyor?" },
-          { "type": "quiz", "question": "İbn-i Sînâ'nın Batı dünyasında yüzyıllarca tıp fakültelerinde ana kaynak olarak okutulan o dünyaca ünlü başyapıtının adı nedir?",
-            "options": ["Kitabü'ş-Şifâ", "El-Kanun fi't-Tıb", "İhyâu Ulûmid'd-Dîn", "Mukaddime"], "answerIndex": 1, "aiHint": "Şifa kitabı onun felsefe eseridir; bahsettiğimiz tıp eseri ise doğrudan 'Tıbbın Kanunu' anlamına gelen o asil başlıktır." },
+          { "type": "quiz", "question": "İbn-i Sînâ'nın Batı dünyasında yüzyıllarca tıp fakültelerinde ana kaynak olarak okutulan o dünyaca ünlü başyapıtının adı nedir?", "options": ["Kitabü'ş-Şifâ", "El-Kanun fi't-Tıb", "İhyâu Ulûmid'd-Dîn", "Mukaddime"], "answerIndex": 1, "aiHint": "Şifa kitabı onun felsefe eseridir; bahsettiğimiz tıp eseri ise doğrudan 'Tıbbın Kanunu' anlamına gelen o asil başlıktır." },
           { "type": "mission", "content": "Bugün zihninin tıkandığı, çözemediğin teknik bir problem veya hayat dilediğinde, her şeyi bir kenara bırakıp iki rekat namaz kıl veya derin bir istiğfar getirerek zihnini ilahi kaynağa bağla." }
         ]
       },
@@ -456,8 +442,7 @@
         "icon": "trophy",
         "steps": [
           { "type": "hook", "content": "Mekanik robotların, dişlilerin ve sibernetiğin temelini 800 yıl önce Diyarbakır'da atan o muazzam mucidin izinden gitmeye hazır mısın?" },
-          { "type": "scholar", "scholarName": "Ebu'l İz El-Cezerî",
-            "quote": "Bilesin ki yoldaş; pratiğe dökülmeyen, insanlığın hayrına kullanılmayan teorik ilim, doğru ile yanlış arasında askıda kalan bir hiçtir. Ben Artuklu Sarayı'nda su saatleri, otomatik abdest alma robotları ve şifreli kilitler yaparken, Yaratıcı'nın evrene koyduğu mekanik dengeleri taklit ettim. Gerçek mühendislik; ilahi sanatı idrak edip, o sanattan ilham alarak insanlığın yükünü hafifletmektir." },
+          { "type": "scholar", "scholarName": "Ebu'l İz El-Cezerî", "quote": "Bilesin ki yoldaş; pratiğe dökülmeyen, insanlığın hayrına kullanılmayan teorik ilim, doğru ile yanlış arasında askıda kalan bir hiçtir. Ben Artuklu Sarayı'nda su saatleri, otomatik abdest alma robotları ve şifreli kilitler yaparken, Yaratıcı'nın evrene koyduğu mekanik dengeleri taklit ettim. Gerçek mühendislik; ilahi sanatı idrak edip, o sanattan ilham alarak insanlığın yükünü hafifletmektir." },
           { "type": "reflection", "prompt": "El-Cezerî'nin 'Uygulamaya dönüşmeyen ilim askıdadır' sözünü düşündüğünde; bir mühendis adayı olarak geliştirdiğin projeleri (mesela yapay zeka, mobil uygulamalar) insanlığa faydalı bir amele nasıl dönüştüreceksin?" },
           { "type": "mission", "content": "Bu bilim modülünün büyük tacı olarak; bugün tamamen insanlığın, ailenin veya toplumun bir derdini çözecek teknolojik bir proje fikri tasarla, not al ve 'Bismillah' diyerek niyetini kilitte tut." }
         ]
@@ -476,11 +461,9 @@
         "icon": "shield-alert",
         "steps": [
           { "type": "hook", "content": "Tüm ibadetlerini eksiksiz yapsan, geceleri uyumayıp namaz kılsan bile, bir insanın kalbini kırdığın veya hakkını yediğin için cennet kapısında durdurulabileceğini biliyor musun?" },
-          { "type": "knowledge", "title": "Müflis Kimdir?",
-            "content": "Kul hakkı, Allah'ın 'Bana her şeyle gelin ama kul hakkıyla gelmeyin, onu ancak kulun kendisi affeder' buyurduğu en hassas sınırdır. Efendimiz (s.a.v.) dünyada çok ibadet edip ahirete gıybetle, hırsızlıkla, kalp kırmayla gelen ve sevapları hak sahiplerine dağıtılınca sıfıra düşen insanı 'Müflis' (manevi olarak iflas etmiş kişi) olarak tanımlamıştır." },
+          { "type": "knowledge", "title": "Müflis Kimdir?", "content": "Kul hakkı, Allah'ın 'Bana her şeyle gelin ama kul hakkıyla gelmeyin, onu ancak kulun kendisi affeder' buyurduğu en hassas sınırdır. Efendimiz (s.a.v.) dünyada çok ibadet edip ahirete gıybetle, hırsızlıkla, kalp kırmayla gelen ve sevapları hak sahiplerine dağıtılınca sıfıra düşen insanı 'Müflis' (manevi olarak iflas etmiş kişi) olarak tanımlamıştır." },
           { "type": "reflection", "prompt": "Trafikte sıra kapmak, sırada öne geçmek, korsan yazılım kullanmak veya sosyal medyada birine hakaret etmek gibi sıradanlaşan olayların aslında birer ağır 'kul hakkı' olduğunu düşünmek sence davranışlarını nasıl sınırlar?" },
-          { "type": "quiz", "question": "Peygamber Efendimiz'in (s.a.v.) bildirdiğine göre, dünyada çokça sevap işlemesine rağmen kul hakları yüzünden ahirette iflas eden kişiye ne ad verilir?",
-            "options": ["Garip", "Müflis", "Zahid", "Münafık"], "answerIndex": 1, "aiHint": "Bu kelime ticari hayatta parası tamamen biten, iflas bayrağını çeken kişiler için de kullanılır. Ahiretteki iflas ise sevapların bitmesidir." },
+          { "type": "quiz", "question": "Peygamber Efendimiz'in (s.a.v.) bildirdiğine göre, dünyada çokça sevap işlemesine rağmen kul hakları yüzünden ahirette iflas eden kişiye ne ad verilir?", "options": ["Garip", "Müflis", "Zahid", "Münafık"], "answerIndex": 1, "aiHint": "Bu kelime ticari hayatta parası tamamen biten, iflas bayrağını çeken kişiler için de kullanılır. Ahiretteki iflas ise sevapların bitmesidir." },
           { "type": "mission", "content": "Bugün üzerinde hakkı olduğunu düşündüğün, kırdığın veya arkasından konuştuğun birini hatırla. Git ondan kalpten helallik iste; eğer ulaşamıyorsan onun adına gizlice sadaka ver ve dua et." }
         ]
       },
@@ -490,11 +473,9 @@
         "icon": "heart",
         "steps": [
           { "type": "hook", "content": "Sana öfkelendiklerinde veya seni anlamadıklarında onlara bir 'Öf!' bile demenin ilahi katmanda çok büyük bir yankı uyandırdığının farkında mısın?" },
-          { "type": "knowledge", "title": "Cennet Annelerin Ayakları Altındadır",
-            "content": "Kur'an-ı Kerim'de Allah, Kendisine ibadet emrinin hemen ardından anne-babaya iyi davranmayı emreder. Onlar yaşlandığında onlara merhamet kanatlarını germemizi ve kibar konuşmamızı ister. Anne-babanın rızası, Allah'ın rızasına giden en kestirme ve en garantili dikey yoldur." },
+          { "type": "knowledge", "title": "Cennet Annelerin Ayakları Altındadır", "content": "Kur'an-ı Kerim'de Allah, Kendisine ibadet emrinin hemen ardından anne-babaya iyi davranmayı emreder. Onlar yaşlandığında onlara merhamet kanatlarını germemizi ve kibar konuşmamızı ister. Anne-babanın rızası, Allah'ın rızasına giden en kestirme ve en garantili dikey yoldur." },
           { "type": "reflection", "prompt": "Anne-babanın yaşlandığında veya fikir ayrılıkları düştüğünde onlara karşı sabırlı ve şefkatli kalabilmek sence nefs terbiyesinin neden en zorlu basamağıdır?" },
-          { "type": "quiz", "question": "İsra Suresi 23. ayette, yaşlanan anne ve babaya karşı söylenmesi kesin bir dille yasaklanan en küçük olumsuz kelime/nida hangisidir?",
-            "options": ["Hayır", "Öf", "Bıktım", "Yeter"], "answerIndex": 1, "aiHint": "Sadece iki harfli, bıkkınlık ve sitem belirten o küçük nefes çıkışını bile Yaratıcı anne-baba hukukunda kırmızı çizgi ilan etmiştir yoldaş." },
+          { "type": "quiz", "question": "İsra Suresi 23. ayette, yaşlanan anne ve babaya karşı söylenmesi kesin bir dille yasaklanan en küçük olumsuz kelime/nida hangisidir?", "options": ["Hayır", "Öf", "Bıktım", "Yeter"], "answerIndex": 1, "aiHint": "Sadece iki harfli, bıkkınlık ve sitem belirten o küçük nefes çıkışını bile Yaratıcı anne-baba hukukunda kırmızı çizgi ilan etmiştir yoldaş." },
           { "type": "mission", "content": "Bugün anne ve babanın (hayattalarsa) yanına git, ellerini öp veya telefonla ara. Sadece seslerini duymak ve onları çok sevdiğini söylemek için hatırlarını sor." }
         ]
       },
@@ -503,12 +484,10 @@
         "title": "3. Dijital Ahlak: Sosyal Medyadaki Mizan",
         "icon": "smartphone",
         "steps": [
-          { "type": "hook", "content": "Klavyenin arkasına saklanıp sahte bir isimle birine yazdığın o acımasız yorumun, ahiretteki mizan terazisinde seninle yüzleşeceğini hiç düşündün mü?" },
-          { "type": "knowledge", "title": "Gözlerin ve Parmakların Şahitliği",
-            "content": "İslam ahlakı mekandan münezzehtir; sokakta haram olan, internette de haramdır. Sosyal medyada gıybet yapmak, linç kültürüne ortak olmak, yalan haberi yaymak veya insanları aşağılamak çok ağır kul hakları doğurur. Ayette belirtildiği gibi: 'O gün onların ağızlarını mühürleriz, yaptıklarını bize elleri söyler, ayakları şahitlik eder.'" },
+          { "type": "hook", "content": "Klavyenin arkasına saklanıp sahte bir isimle birine yazdığın o acımasız yorumun, ahiretteki mizan terazisinde seninle yüzleşeceğini hiç düşündün mi?" },
+          { "type": "knowledge", "title": "Gözlerin ve Parmakların Şahitliği", "content": "İslam ahlakı mekandan münezzehtir; sokakta haram olan, internette de haramdır. Sosyal medyada gıybet yapmak, linç kültürüne ortak olmak, yalan haberi yaymak veya insanları aşağılamak çok ağır kul hakları doğurur. Ayette belirtildiği gibi: 'O gün onların ağızlarını mühürleriz, yaptıklarını bize elleri söyler, ayakları şahitlik eder.'" },
           { "type": "reflection", "prompt": "Sosyal medyanın getirdiği o 'görünmezlik ve cezasızlık' hissi karşısında, dijital dünyada ihlaslı ve ahlaklı kalmayı nasıl başarabilirsin?" },
-          { "type": "quiz", "question": "Bir insan hakkında arkasından duyduğunda hoşlanmayacağı doğru bir şeyi konuşmaya ne ad verilir?",
-            "options": ["İftira", "Gıybet", "Bühtan", "Riya"], "answerIndex": 1, "aiHint": "Eğer söylediğin şey yalan olsaydı adı İftira olurdu dostum. Doğru bile olsa arkadan konuşmak Kur'an'da 'ölü kardeşinin etini yemeye' benzetilmiştir." },
+          { "type": "quiz", "question": "Bir insan hakkında arkasından duyduğunda hoşlanmayacağı doğru bir şeyi konuşmaya ne ad verilir?", "options": ["İftira", "Gıybet", "Bühtan", "Riya"], "answerIndex": 1, "aiHint": "Eğer söylediğin şey yalan olsaydı adı İftira olurdu dostum. Doğru bile olsa arkadan konuşmak Kur'an'da 'ölü kardeşinin etini yemeye' benzetilmiştir." },
           { "type": "mission", "content": "Bugün sosyal medyada geçireceğin sürede hiç kimseyi eleştirme, olumsuz yorum yazma ve önüne düşen dedikodu/magazin içeriklerini doğrudan geçerek dijital detoks yap." }
         ]
       },
@@ -518,15 +497,14 @@
         "icon": "trophy",
         "steps": [
           { "type": "hook", "content": "İlmin kapısı, adaletin ve cesaretin şahı olan o büyük halifenin toplumsal ahlak dersini almaya hazır mısın?" },
-          { "type": "scholar", "scholarName": "Hz. Ali bin Ebi Tâlib (r.a.)",
-            "quote": "Yoldaş; halk iki sınıftır: Ya dinde senin kardeşindir ya da yaratılışta senin eşindir (insandır). İnsanlara karşı kalbinde merhamet, sevgi ve lütuf duygusu besle. Güçlendiğinde affetmek adaletin en güzel süsüdür. Bir insanın hakkını çiğneyerek elde ettiğin başarı, seni manevi mizan karşısında müflis yapmaktan başka işe yaramaz. Dilini tatlı kıl ki ahlakın parlasın." },
+          { "type": "scholar", "scholarName": "Hz. Ali bin Ebi Tâlib (r.a.)", "quote": "Yoldaş; halk iki sınıftır: Ya dinde senin kardeşindir ya da yaratılışta senin eşindir (insandır). İnsanlara karşı kalbinde merhamet, sevgi ve lütuf duygusu besle. Güçlendiğinde affetmek adaletin en güzel süsüdür. Bir insanın hakkını çiğneyerek elde ettiğin başarı, seni manevi mizan karşısında müflis yapmaktan başka işe yaramaz. Dilini tatlı kıl ki ahlakın parlasın." },
           { "type": "reflection", "prompt": "Hz. Ali'nin 'İnsanlar ya dinde kardeşin ya yaratılışta eşindir' sözünü düşündüğünde; inancı, fikri veya yaşam tarzı seninkine uymayan insanlara karşı ahlaki tavrın nasıl olmalı?" },
           { "type": "mission", "content": "Bu muazzam akademinin tüm modüllerinin nihai tacı olarak; bugün sokakta, okulda veya işte normalde hiç anlaşamadığın, ters düştüğün birine karşı tamamen egonu kırarak nazik davran ve ona küçük bir ikramda bulun." }
         ]
       }
     ]
   },
-{
+  {
     "id": "module_8",
     "title": "Manevi Mimari ve Estetik",
     "description": "İslam'ın sanat, mimari, hat ve musikiyle ruhu nasıl incelttiğini, Yaratıcı'nın 'Cemîl' (en güzel) ismini maddeye nasıl nakşettiğini keşfet.",
@@ -538,11 +516,9 @@
         "icon": "palette",
         "steps": [
           { "type": "hook", "content": "Bir caminin devasa kubbesine, bir hat yazısının zarif kıvrımlarına veya bir ney sesine kulak verdiğinde içini kaplayan o derin huzur sence nereden geliyor? Sanat, ruhun ilahi güzelliği arayışı mıdır?" },
-          { "type": "knowledge", "title": "İhsan Makamı ve Sanat",
-            "content": "İslam, çirkinliği ve kabalığı reddeder. Efendimiz (s.a.v.) 'Allah güzeldir, güzelliği sever' buyurmuştur. Müslüman sanatkarlar resmi putlaştırmak yerine hat, tezhip, ebru ve mimariyle geometrik nizamı sanata dökmüşlerdir. Yapılan her işi en mükemmel (ihsan) seviyede yapmak, Yaratıcı'nın evrendeki kusursuz sanatına bir saygı duruşudur." },
+          { "type": "knowledge", "title": "İhsan Makamı ve Sanat", "content": "İslam, çirkinliği ve kabalığı reddeder. Efendimiz (s.a.v.) 'Allah güzeldir, güzelliği sever' buyurmuştur. Müslüman sanatkarlar resmi putlaştırmak yerine hat, tezhip, ebru ve mimariyle geometrik nizamı sanata dökmüşlerdir. Yapılan her işi en memnun (ihsan) seviyede yapmak, Yaratıcı'nın evrendeki kusursuz sanatına bir saygı duruşudur." },
           { "type": "reflection", "prompt": "Sıradan bir binanın sadece barınma ihtiyacını karşılamasıyla, Selimiye gibi bir caminin insanı saniyeler içinde tefekküre ve huşuya sevk etmesi arasındaki o 'estetik ruh' sence hayatımıza nasıl yansımalı?" },
-          { "type": "quiz", "question": "Yaratıcı'nın Esmaül Hüsna'sından olan, 'Sonsuz güzellik sahibi olan ve yarattığı her şeyi zarif ve güzel kılan' anlamına gelen ismi hangisidir?",
-            "options": ["El-Cebbâr", "El-Cemîl", "El-Kahhâr", "El-Melik"], "answerIndex": 1, "aiHint": "Estetik, zarafet ve sanat bu asil ismin evrendeki tecellilerinden ibarettir yoldaş. Hadis-i şerifteki o kelimeyi hatırla: 'İnnallahe...' " },
+          { "type": "quiz", "question": "Yaratıcı'nın Esmaül Hüsna'sından olan, 'Sonsuz güzellik sahibi olan ve yarattığı her şeyi zarif ve güzel kılan' anlamına gelen ismi hangisidir?", "options": ["El-Cebbâr", "El-Cemîl", "El-Kahhâr", "El-Melik"], "answerIndex": 1, "aiHint": "Estetik, zarafet ve sanat bu asil ismin evrendeki tecellilerinden ibarettir yoldaş. Hadis-i şerifteki o kelimeyi hatırla: 'İnnallahe...' " },
           { "type": "mission", "content": "Bugün yaşadığın odayı, çalışma masanı veya yazdığın bir kod satırını tamamen temiz, düzenli ve göze hoş gelecek şekilde (estetikle) yeniden organize et; kabalığı hayatından sürgün et." }
         ]
       },
@@ -552,11 +528,9 @@
         "icon": "pen-tool",
         "steps": [
           { "type": "hook", "content": "Kur'an ayetlerinin mürekkep ve kamış kalemle adeta birer tablo gibi kağıda dökülmesindeki o milimetrik nizamı fark ettin mi? Yazı nasıl bir ibadete dönüşebilir?" },
-          { "type": "knowledge", "title": "Cismani geometri",
-            "content": "Hat sanatı, 'cismani geometri' olarak tanımlanır. Müslüman hattatlar, kutsal kelamı en güzel şekilde yazabilmek için ömürlerini vermişlerdir. Tezhip ise o yazının etrafını altın tozlarıyla süsleme sanatıdır. Onlar yazı yazarken abdest alır, her harfte Allah'ın kelamını tefekkür ederlerdi. Bu yüzden o yazılar sadece mürekkep değil, bakan gözlere birer nur taşır." },
-          { "type": "reflection", "prompt": "Hattatların bir harfi doğru yazabilmek için aylarca çalışacak kadar derin bir sabır ve estetik kaygı gütmesi, bizim dijital çağdaki 'hızlı, tüketim odaklı ve özensiz' iş yapış şeklimize nasıl bir ders veriyor?" },
-          { "type": "quiz", "question": "İslam sanatında kamış kalem ve özel mürekkeplerle, ölçülü ve estetik bir şekilde yazı yazma sanatına ne ad verilir?",
-            "options": ["Tezhip", "Ebru", "Hat", "Miniatür"], "answerIndex": 2, "aiHint": "Bu sanatı icra eden üstatlara 'Hattat' denir. Dünyanın en zor ve en sabır isteyen görsel geometrik disiplinlerinden biridir." },
+          { "type": "knowledge", "title": "Cismani geometri", "content": "Hat sanatı, 'cismani geometri' olarak tanımlanır. Müslüman hattatlar, kutsal kelamı en güzel şekilde yazabilmek için ömürlerini vermişlerdir. Tezhip ise o yazının etrafını altın tozlarıyla süsleme sanatıdır. Onlar yazı yazarken abdest alır, her harfte Allah'ın kelamını tefekkür ederlerdi. Bu yüzden o yazılar sadece mürekkep değil, bakan gözlere birer nur taşır." },
+          { "type": "reflection", "prompt": "Hattatların bir harfi doğru yazabilmek için aylarca çalışacak kadar derin bir sabır ve estetik kaygı gütmesi, bizim dijital çağdaki 'hızlı, tüketim odaklı ve özensiz' iş yapış şeklimize nasıl bir dikey cevap veriyor?" },
+          { "type": "quiz", "question": "İslam sanatında kamış kalem ve özel mürekkeplerle, ölçülü ve estetik bir şekilde yazı yazma sanatına ne ad verilir?", "options": ["Tezhip", "Ebru", "Hat", "Miniatür"], "answerIndex": 2, "aiHint": "Bu sanatı icra eden üstatlara 'Hattat' denir. Dünyanın en zor ve en sabır isteyen görsel geometrik disiplinlerinden biridir." },
           { "type": "mission", "content": "Bugün bir deftere veya kağıda en güzel el yazınla, acele etmeden, harflerin hakkını vererek kalpten bir ayet veya dua yaz ve masana koy." }
         ]
       },
@@ -566,10 +540,9 @@
         "icon": "trophy",
         "steps": [
           { "type": "hook", "content": "Taşları birer yapboz gibi dizip, depremlere yüzyıllardır meydan okuyan o devasa kubbelerin manevi mimarından ders almaya hazır mısın?" },
-          { "type": "scholar", "scholarName": "Koca Mimar Sinan",
-            "quote": "Bilesin ki yoldaş; mimarlık sadece taş üstüne taş koymak değil, mülkün gerçek sahibi olan Allah'ın adını göklere yükseltmektir. Ben Süleymaniye'yi, Selimiye'yi inşa ederken akustiği, statiği ve matematiği tefekkürle birleştirdim. Kubbeleri öyle çattım ki, altındaki kul secdede kainatın genişliğini hissetsin. Gerçek mühendislik ve mimarlık; fani dünyada baki olan Yaratıcı'nın azametini sanata nakşetmektir." },
-          { "type": "reflection", "prompt": "Mimar Sinan'ın eserlerini yaparken en ince mühendislik hesaplarını (is odası, deprem terazileri) manevi bir huşuyla yapması, senin mesleki ufkunu nasıl genişletiyor?" },
-          { "type": "mission", "content": "Bu estetik modülünün büyük tacı olarak; bugün bir camiye, tarihi bir yapıya ya da doğadaki bir simetriye (mesela bir kar kristali veya yaprak damarı) tamamen 'Sinan gözüyle' bak, o mimari dehasını 2 dakika boyunca kalpten tefekkür et." }
+          { "type": "scholar", "scholarName": "Koca Mimar Sinan", "quote": "Bilesin ki yoldaş; mimarlık sadece taş üstüne taş koymak değil, mülkün gerçek sahibi olan Allah'ın adını göklere yükseltmektir. Ben Süleymaniye'yi, Selimiye'yi inşa ederken akustiği, statiği ve matematiği tefekkürle birleştirdim. Kubbeleri öyle çattım ki, altındaki kul secdede kainatın genişliğini hissetsin. Gerçek mühendislik ve mimarlık; fani dünyada baki olan Yaratıcı'nın azametini sanata nakşetmektir." },
+          { "type": "reflection", "prompt": "Mimar Sinan's eserlerini yaparken en ince mühendislik hesaplarını (is odası, deprem terazileri) manevi bir huşuyla yapması, senin mesleki ufkunu nasıl genişletiyor?" },
+          { "type": "mission", "content": "Bugün bir camiye, tarihi bir yapıya ya da doğadaki bir simetriye (mesela bir kar kristali veya yaprak damarı) tamamen 'Sinan gözüyle' bak, o mimari dehasını 2 dakika boyunca kalpten tefekkür et." }
         ]
       }
     ]
@@ -586,11 +559,9 @@
         "icon": "clock",
         "steps": [
           { "type": "hook", "content": "Pazarda 'Sermayesi eriyen bu fakire yardım edin!' diye bağıran buz satıcısını duysaydın ne yapardın? Aslında o eriyen buz, senin şu an akıp giden saniyelerindir." },
-          { "type": "knowledge", "title": "Zamanın İki Yakası",
-            "content": "Asr Suresi, insanlığın zamana karşı uğradığı hüsranı ve kurtuluş reçetesini şak diye ortaya koyar. İmam Şafii 'Eğer Kur'an'da sadece bu sure indirilseydi, insanlığa yeterdi' demiştir. Zaman, geri dönüşü ve telafisi olmayan tek sermayedir. Onu imanla, amelle ve hakkı tavsiye etmekle doldurmayan insan, her saniye manevi olarak iflasa sürüklenir." },
+          { "type": "knowledge", "title": "Zamanın İki Yakası", "content": "Asr Suresi, insanlığın zamana karşı uğradığı hüsranı ve kurtuluş reçetesini şak diye ortaya koyar. İmam Şafii 'Eğer Kur'an'da sadece bu sure indirilseydi, insanlığa yeterdi' demiştir. Zaman, geri dönüşü ve telafisi olmayan tek sermayedir. Onu imanla, amelle ve hakkı tavsiye etmekle doldurmayan insan, her saniye manevi olarak iflasa sürüklenir." },
           { "type": "reflection", "prompt": "Zamanın su gibi akıp gittiğini ve gençlik sermayenin her gün biraz daha eridiğini bilmek, seni ertelediğin ibadetler ve hayırlı işler konusunda nasıl harekete geçirmeli?" },
-          { "type": "quiz", "question": "İmam Şafii'nin 'Eğer Kur'an'da sadece bu sure indirilseydi insanlara rehber olarak yeterdi' dediği, zamanın önemini anlatan sure hangisidir?",
-            "options": ["Fatiha", "Asr", "İhlas", "Yasin"], "answerIndex": 1, "aiHint": "Surenin adı doğrudan 'Zaman, çağ, ikindi vakti' anlamına gelir ve sadece 3 kısa ayetten oluşmasına rağmen tüm hayatın özetidir." },
+          { "type": "quiz", "question": "İmam Şafii'nin 'Eğer Kur'an'da sadece bu sure indirilseydi insanlara rehber olarak yeterdi' dediği, zamanın önemini anlatan sure hangisidir?", "options": ["Fatiha", "Asr", "İhlas", "Yasin"], "answerIndex": 1, "aiHint": "Surenin adı doğrudan 'Zaman, çağ, ikindi vakti' anlamına gelir ve sadece 3 kısa ayetten oluşmasına rağmen tüm hayatın özetidir." },
           { "type": "mission", "content": "Bugün gün içindeki 1 saatini tamamen telefondan, sosyal medyadan ve boş işlerden soyutla. O 1 saati sadece kitap okumaya, tefekküre veya kaza namazı kılmaya ayır." }
         ]
       },
@@ -600,11 +571,9 @@
         "icon": "user-check",
         "steps": [
           { "type": "hook", "content": "Ahirette tüm insanlığın hesaba çekileceği o büyük mizan gününde, ömrün genelinden ayrı olarak 'Gençliğini nerede çürüttün?' diye özel bir soru sorulacağını biliyor muydun?" },
-          { "type": "knowledge", "title": "5 Şey Gelmeden Önce 5 Şeyin Kıymeti",
-            "content": "Gençlik, enerjinin, zekanın ve iradenin zirvede olduğu en kritik dönemdir. Efendimiz (s.a.v.) mahşerde kulun ömründen, malından ve ilminden hesaba çekilmeden yerinden kımıldayamayacağını, özellikle de gençliğini nerede tükettiğinin sorulacağını bildirir. Gençlikte yapılan ibadet ve fedakarlıklar, yaşlılıkta yapılanlardan kat kat daha değerlidir." },
+          { "type": "knowledge", "title": "5 Şey Gelmeden Önce 5 Şeyin Kıymeti", "content": "Gençlik, enerjinin, zekanın ve iradenin zirvede olduğu en kritik dönemdir. Efendimiz (s.a.v.) mahşerde kulun ömründen, malından ve ilminden hesaba çekilmeden yerinden kımıldayamayacağını, özellikle de gençliğini nerede tükettiğinin sorulacağını bildirir. Gençlikte yapılan ibadet ve fedakarlıklar, yaşlılıkta yapılanlardan kat kat daha değerlidir." },
           { "type": "reflection", "prompt": "Modern çağın gençliği sürekli eğlence, tüketim ve boş vakit geçirmeye yönlendirmesi karşısında; bir üniversite öğrencisi veya son sınıf genci olarak manevi omurganı nasıl dik tutacaksın?" },
-          { "type": "quiz", "question": "Peygamber Efendimiz'in (s.a.v.) bildirdiğine göre, hiçbir gölgenin olmadığı mahşer gününde Allah'ın arşının gölgesinde gölgelenecek 7 sınıftan biri hangisidir?",
-            "options": ["Çok zengin olanlar", "Rabbine ibadet ederek temiz bir hayat içinde büyüyen genç", "Çok seyahat edenler", "Sadece yaşlandığında camiye gidenler"], "answerIndex": 1, "aiHint": "Nefsinin arzularının en vahşi olduğu o gençlik döneminde, egolarını zincirleyip seccadeye ve ahlaka sığınan o yiğit genci düşün yoldaş." },
+          { "type": "quiz", "question": "Peygamber Efendimiz'in (s.a.v.) bildirdiğine göre, hiçbir gölgenin olmadığı mahşer gününde Allah'ın arşının gölgesinde gölgelenecek 7 sınıftan biri hangisidir?", "options": ["Çok zengin olanlar", "Rabbine ibadet ederek temiz bir hayat içinde büyüyen genç", "Çok seyahat edenler", "Sadece yaşlandığında camiye gidenler"], "answerIndex": 1, "aiHint": "Nefsinin arzularının en vahşi olduğu o gençlik döneminde, egolarını zincirleyip seccadeye ve ahlaka sığınan o yiğit genci think yoldaş." },
           { "type": "mission", "content": "Bugün geleceğe yönelik kariyer planlarını yaparken, o planların tam merkezine 'Allah rızasını ve insanlığa hizmeti' koyarak niyetini baştan güncelliyor musun? Bunu kalpten onayla." }
         ]
       },
@@ -614,15 +583,14 @@
         "icon": "trophy",
         "steps": [
           { "type": "hook", "content": "Her akşam uyumadan önce kendi nefsini hesaba çekip 'Bugün Allah için ne yaptın Ömer?' diye haykıran o adalet deryasının dizinin dibine çökmeye hazır mısın?" },
-          { "type": "scholar", "scholarName": "Hz. Ömer bin Hattab (r.a.)",
-            "quote": "Yoldaş; hesaba çekilmeden önce kendi nefsinizi hesaba çekiniz. Amelleriniz tartılmadan önce kendi amellerinizi kendiniz tartınız. Ben adaletiyle dünyayı titreten Ömer, her günümün muhasebesini titreyerek yaptım. Zamanı israf etmek, ömrü batıla harcamak en büyük manevi ziyandır. Yarın yaparım diyenler helak oldu. İstikametini bozma, saniyelerini uyanık yaşa." },
+          { "type": "scholar", "scholarName": "Hz. Ömer bin Hattab (r.a.)", "quote": "Yoldaş; hesaba çekilmeden önce kendi nefsinizi hesaba çekiniz. Amelleriniz tartılmadan önce kendi amellerinizi kendiniz tartınız. Ben adaletiyle dünyayı titreten Ömer, her günümün muhasebesini titreyerek yaptım. Zamanı israf etmek, ömrü batıla harcamak en büyük manevi ziyandır. Yarın yaparım diyenler helak oldu. İstikametini bozma, saniyelerini uyanık yaşa." },
           { "type": "reflection", "prompt": "Hz. Ömer'in 'Hesaba çekilmeden önce kendinizi hesaba çekin' sözünü düşündüğünde; bu akşam kafanı yastığa koyduğunda bugününü nasıl puanlayacaksın?" },
           { "type": "mission", "content": "Bu devasa akademinin nihai ve en büyük tacı olarak; bu akşam yatağa girdiğinde gözlerini kapat. Günün şeridini baştan sona sar. Kaç sevap işledin, kaç kalp kırdın, nerelerde zamanı israf ettin? Tam 3 dakika boyunca kendi manevi ömür muhasebeni yap ve öyle uyu yoldaş." }
         ]
       }
     ]
   },
-{
+  {
     "id": "module_10",
     "title": "Manevi Yoldaşlık ve İdeal Mümin",
     "description": "Akademinin büyük tacı. Ahir zamanın fırtınaları arasında savrulmadan, asil bir duruşla modern çağda uyanık yaşama ve ideal mümin olma sırlarını keşfet.",
@@ -634,11 +602,9 @@
         "icon": "shield",
         "steps": [
           { "type": "hook", "content": "Etrafındaki herkesin manevi değerleri unuttuğu, bencilliğin ve hazcılığın zirve yaptığı modern bir dünyada, inancını avucunda kor gibi tutarak yürüyen o kahraman genç sen olabilir misin?" },
-          { "type": "knowledge", "title": "Gurbet Makamı ve Garip Müminler",
-            "content": "Peygamber Efendimiz (s.a.v.) 'İslam garip başladı, günün birinde yine başladığı gibi garip haline dönecektir. Ne mutlu o gariplere!' buyurmuştur. Ahir zamanda ideal mümin olmak; akıntıya karşı kürek çekmektir. Herkes dünyayı tüketirken, onun kalbi ebediyete odaklıdır. O, kalabalıklar içinde yalnız kalsa bile Yaratıcısının 'Sen benim kulumun' nidasıyla teselli bulan asil bir gariptir." },
+          { "type": "knowledge", "title": "Gurbet Makamı ve Garip Müminler", "content": "Peygamber Efendimiz (s.a.v.) 'İslam garip başladı, günün birinde yine başladığı gibi garip haline dönecektir. Ne mutlu o gariplere!' buyurmuştur. Ahir zamanda ideal mümin olmak; akıntıya karşı kürek çekmektir. Herkes dünyayı tüketirken, onun kalbi ebediyete odaklıdır. O, kalabalıklar içinde yalnız kalsa bile Yaratıcısının 'Sen benim kulumun' nidasıyla teselli bulan asil bir gariptir." },
           { "type": "reflection", "prompt": "Çevrende ibadet etmeyen, sürekli dünyevi hazları kovalayan çoğunluğun baskısına kapılmadan, manevi çizgini (namazını, ahlakını) tek başına dik tutmak sana nasıl bir ruhsal güç veriyor?" },
-          { "type": "quiz", "question": "Peygamberimizin (s.a.v.) ahir zamanda inancını korumaya çalışan müminlerin sabrını benzettiği o sarsıcı nesne hangisidir?",
-            "options": ["Gül bahçesi", "Avuçta tutulan ateşten bir kor", "Altın anahtar", "Sakin bir liman"], "answerIndex": 1, "aiHint": "O nesneyi elinde tutarsan elin yanar yoldaş, yere fırlatırsan inancın söner. İşte o kora talip olan yiğitlerin makamı çok büyüktür." },
+          { "type": "quiz", "question": "Peygamberimizin (s.a.v.) ahir zamanda inancını korumaya çalışan müminlerin sabrını benzettiği o sarsıcı nesne hangisidir?", "options": ["Gül bahçesi", "Avuçta tutulan ateşten bir kor", "Altın anahtar", "Sakin bir liman"], "answerIndex": 1, "aiHint": "O nesneyi elinde tutarsan elin yanar yoldaş, yere fırlatırsan inancın söner. İşte o kora talip olan yiğitlerin makamı çok büyüktür." },
           { "type": "mission", "content": "Bugün arkadaş ortamında veya sosyal medyada sırf ortama ayak uydurmak için inancından, duruşundan veya namazından asla taviz verme. İnancını gururla ve nezaketle temsil et." }
         ]
       },
@@ -648,11 +614,9 @@
         "icon": "activity",
         "steps": [
           { "type": "hook", "content": "Zihindeki soyut bir inanç, eyleme dökülmedikçe kurumaya mahkum bir tohum gibidir. Sence inancının meyve vermesi ve hayat bulması için her gün hangi salih ameli toprağa ekiyorsun?" },
-          { "type": "knowledge", "title": "İman ve Amel Ortaklığı",
-            "content": "Kur'an-ı Kerim'de neredeyse tüm ayetlerde 'İman edenler ve salih amel işleyenler' ifadesi yan yana gelir. Amelsiz iman, korumasız bir mum alevi gibidir; ilk rüzgarda sönebilir. Salih amel; kırık bir kalbi tamir etmek, birine yardım etmek, işini milimetrik bir dürüstlükle (ihsanla) yapmak ve hayatın her anını ibadete dönüştürmektir." },
+          { "type": "knowledge", "title": "İman ve Amel Ortaklığı", "content": "Kur'an-ı Kerim'de neredeyse tüm ayetlerde 'İman edenler ve salih amel işleyenler' ifadesi yan yana gelir. Amelsiz iman, korumasız bir mum alevi gibidir; ilk rüzgarda sönebilir. Salih amel; kırık bir kalbi tamir etmek, birine yardım etmek, işini milimetrik bir dürüstlükle (ihsanla) yapmak ve hayatın her anını ibadete dönüştürmektir." },
           { "type": "reflection", "prompt": "Geliştirdiğin bir yazılımın, temizlediğin bir sokağın veya bir insana ettiğin yardımın 'Salih Amel' niyetine geçebilmesi için kalbindeki o niyet filtresini nasıl ayarlamalısın?" },
-          { "type": "quiz", "question": "Yaptığımız bir amelin ilahi katmanda 'Salih Amel' olarak kabul edilip nur sızdırması için gereken en temel iki şart hangisidir?",
-            "options": ["Çok para kazanmak ve tanınmak", "İmanla yapılması ve sadece Allah rızası (İhlas) gözetilmesi", "Herkesin görmesi ve alkışlaması", "Sadece yaşlanınca yapılması"], "answerIndex": 1, "aiHint": "İçinde iman olmayan ameller boşa gider, içinde gösteriş (riya) olan ameller ise ahirette sahibinin yüzüne çarpılır yoldaş. Şıkkı buna göre ele." },
+          { "type": "quiz", "question": "Yaptığımız bir amelin ilahi katmanda 'Salih Amel' olarak kabul edilip nur sızdırması için gereken en temel iki şart hangisidir?", "options": ["Çok para kazanmak ve tanınmak", "İmanla yapılması ve sadece Allah rızası (İhlas) gözetilmesi", "Herkesin görmesi ve alkışlaması", "Sadece yaşlanınca yapılması"], "answerIndex": 1, "aiHint": "İçinde iman olmayan ameller boşa gider, içinde gösteriş (riya) olan ameller ise ahirette sahibinin yüzüne çarpılır yoldaş. Şıkkı buna göre ele." },
           { "type": "mission", "content": "Bugün sırf bir insanın hayatını kolaylaştırmak veya yüzünü güldürmek için, karşılığında hiçbir teşekkür beklemeden tamamen sessiz bir salih amel işe koyul." }
         ]
       },
@@ -662,11 +626,9 @@
         "icon": "heart",
         "steps": [
           { "type": "hook", "content": "Hayatının son saniyesinde, gözlerini bu dünyaya kapatırken dilinden ve kalbinden dökülecek o son kelimenin ne olmasını isterdin? Unutma, insan nasıl yaşarsa öyle ölür." },
-          { "type": "knowledge", "title": "Güzel Bir Son ve Ölüm Bilinci",
-            "content": "Hüsn-i Hatime, dünya imtihanını imanla ve güzel bir sonla tamamlayabilmektir. İdeal mümin, ömrünü son nefes ekranına göre optimize eder. Her an ölecekmiş gibi uyanık, hiç ölmeyecekmiş gibi azimli yaşar. Son nefeste Kelime-i Tevhid ile göçebilmek, hayat boyu çekilen zikirlerin, kılınan namazların ve yaşanılan temiz ahlakın nihai bir ödülüdür." },
+          { "type": "knowledge", "title": "Güzel Bir Son ve Ölüm Bilinci", "content": "Hüsn-i Hatime, dünya imtihanını imanla ve güzel bir sonla tamamlayabilmektir. İdeal mümin, ömrünü son nefes ekranına göre optimize eder. Her an ölecekmiş gibi uyanık, hiç ölmeyecekmiş gibi azimli yaşar. Son nefeste Kelime-i Tevhid ile göçebilmek, hayat boyu çekilen zikirlerin, kılınan namazların ve yaşanılan temiz ahlakın nihai bir ödülüdür." },
           { "type": "reflection", "prompt": "Ölümün bir bitiş değil, ömür boyunca yazdığın kodların, biriktirdiğin amellerin derlenip (`compile` edilip) sonsuzluk ekranında çalışacağı o asil an olduğunu düşünmek hayat vizyonunu nasıl değiştirir?" },
-          { "type": "quiz", "question": "Müminin hayatı boyunca korku ile ümit (Havf ve Recâ) arasında dengede yaşayıp, son nefesini imanla teslim etmesi durumuna ne ad verilir?",
-            "options": ["Sui Hatime", "Hüsn-i Hatime", "Gaflet", "İrtidat"], "answerIndex": 1, "aiHint": "Sui Hatime çirkin ve imansız bir son demektir. Bizim aradığımız ise kalbin nurla mühürlendiği o 'en güzel, en asil son' tanımıdır." },
+          { "type": "quiz", "question": "Müminin hayatı boyunca korku ile ümit (Havf ve Recâ) arasında dengede yaşayıp, son nefesini imanla teslim etmesi durumuna ne ad verilir?", "options": ["Sui Hatime", "Hüsn-i Hatime", "Gaflet", "İrtidat"], "answerIndex": 1, "aiHint": "Sui Hatime çirkin ve imansız bir son demektir. Bizim aradığımız ise kalbin nurla mühürlendiği o 'en güzel, en asil son' tanımıdır." },
           { "type": "mission", "content": "Bugün ellerini aç ve Efendimizin o asil duasıyla Yaratıcıya sığın: 'Rabbim, ömrümün en hayırlı anını son anım eyle, amellerimin en hayırlısını son amelim eyle.' " }
         ]
       },
@@ -676,9 +638,8 @@
         "icon": "trophy",
         "steps": [
           { "type": "hook", "content": "Tam 10 modül boyunca manevi basamakları tırmandın, kalbini tefekkürle biledin. Şimdi bu büyük yürüyüşün nihai zirvesinde, çağları aydınlatan o devasa meşalenin hitabına hazır mısın?" },
-          { "type": "scholar", "scholarName": "İmam-ı Rabbani Ahmed-i Farukî es-Serhendî",
-            "quote": "Bilesin ki yoldaş! Tam 10 kapıdan geçtin, ilmi ve ahlakı zihnine nakşettin. Fakat şunları kalbine mıhla: Şeriatın (emirlerin) zahiriyle kalıp batınına (özüne, tefekkürüne) inmeyenler kuru birer taklitçidir. Tarikat ve hakikat, şeriatın özünü korumak ve imanı yakîne (kesin bilgiye) ulaştırmak için birer hizmetçidir. Kalbini masivadan (Allah'tan gayrı her şeyden) arındırmadıkça, yaptığın tüm ibadetler birer kuru yorgunluktan ibaret kalır. İdeal mümin; aklını ilimle, ruhunu zikirle besleyip ahir zaman fırtınalarında sarsılmayan bir dağ gibi durandır. Yoldaşlığın daim, nurun bol olsun." },
-          { "type": "reflection", "prompt": "İmam-ı Rabbani'nin bu nihai Akademi uyarısını düşündüğünde; ilk modülden bu yana kazandığın o muazzam Nur puanlarını, tefekkür günlüklerini ve manevi makamları hayatının geri kalanında birer 'taklit' olmaktan çıkarıp nasıl yaşayan bir ahlaka dönüştüreceksin? Son tefekkürünü kalpten yaz." },
+          { "type": "scholar", "scholarName": "İmam-ı Rabbani Ahmed-i Farukî es-Serhendî", "quote": "Bilesin ki yoldaş! Tam 10 kapıdan geçtin, ilmi ve ahlakı zihnine nakşettin. Fakat şunları kalbine mıhla: Şeriatın (emirlerin) zahiriyle kalıp batınına (özüne, tefekkürüne) inmeyenler kuru birer taklitçidir. Tarikat ve hakikat, şeriatın özünü korumak ve imanı yakîne (kesin bilgiye) ulaştırmak için birer hizmetçidir. Kalbini masivadan (Allah'tan gayrı her şeyden) arındırmadıkça, yaptığın tüm ibadetler birer kuru yorgunluktan ibaret kalır. İdeal mümin; aklını ilimle, ruhunu zikirle besleyip ahir zaman fırtınalarında sarsılmayan bir dağ gibi durandır. Yoldaşlığın daim, nurun bol olsun." },
+          { "type": "reflection", "prompt": "İmam-ı Rabbani'nin bu nihai Akademi uyarısını düşündüğünde; ilk modülden bu yana kazandığın o muazzam Nur puanlarını, tefekkür günlüklerini ve manevi makamları hayatının geri kalanında birer 'taklit' olmaktan çıkarıp nasıl yaşayan bir ahlaka dönüzştüreceksin? Son tefekkürünü kalpten yaz." },
           { "type": "mission", "content": "Bu muazzam 10 modüllük büyük akademinin ebedi ve en büyük tacı olarak; bugün seccadene otur, gözlerini kapat. İlk dersten bu yana öğrendiğin tüm o asil hakikatleri düşün. Yaratıcına 'Rabbim, beni ömrümün sonuna kadar bu manevi yolda sabit kadem eyle, beni gariplerin ve salihlerin safından ayırma' diye yalvar ve bu büyük eğitimi kalbine kilitle yoldaş." }
         ]
       }
