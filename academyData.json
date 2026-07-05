@@ -1,55 +1,55 @@
 [
   {
-    "kimlik": "modül_1",
-    "başlık": "İman Esasları",
-    "açıklama": "Tefekkür ederek, sorgulayarak ve kalbini derinleştirerek inancın 6 temel sütununu keşfet.",
-    "temaRenk": "#D4AF37",
-    "dersler": [
+    "id": "module_1",
+    "title": "İman Esasları",
+    "description": "Tefekkür ederek, sorgulayarak ve kalbini derinleştirerek inancın 6 temel sütununu keşfet.",
+    "themeColor": "#D4AF37",
+    "lessons": [
       {
-        "kimlik": "m1_l1",
-        "başlık": "1. Allah'a İman: Evren Şifresi",
-        "simge": "parıltılar",
-        "adımlar": [
-          { "tip": "kanca", "i̇çerik": "Issız bir çölde kaybolsan ve gece gökyüzündeki kusursuz yıldız dizilimine baksan, bu düzenin bir tesadüf olamayacağını zihninle ve kalbinle nasıl anların?" },
-          { "tip": "bilgi", "başlık": "Kelime-i Tevhid ve Özü", "i̇çerik": "La ilahe illallah, Muhammedün Resulullah. Bu cümle sadece dille sözlenen bir tekerleme değil; hayattaki tüm sahil güçleri, parayı, makamı ve egoyu reddedip sadece tek bir yaratçıya teslim olmaktır." },
-          { "tip": "yansıma", "hızlı": "Sence 'Allah'tan başka hiçbir mutlu güç yoktur' bilinci, günlük hayatındaki gelecek kaygısını ve insanlardan beklentilerini nasıl azaltır? Kısaca tefekkürünü yaz." },
-          { "tip": "sınav", "soru": "Allah'a inandığını söyleyip, parayı veya dünyevi makamı hayatının tek ve en büyük amacı haline getirmek manevi olarak hangî kavrama yaklaşır?", "seçenekler": ["Tevhid", "İhlas", "Şirk", "Tevekkül"], "answerIndex": 2, "aiHint": "Şirk sadece taştan putlara tapmak değildir dostum. Kalbinde Allah'tan daha fazla değer verdiğin, kaybetmekten O'ndan daha çok korktuğun her şey gizli bir kula dönüşebilir. Tekrar düşün..." },
-          { "tip": "görev", "i̇çerik": "Bugün gökyüzüne, bir ağaca veya kendi parmak izine bakıp 1 dakika boyunca yaratılışın mükemmelliğini sessizce tefekkür et." }
+        "id": "m1_l1",
+        "title": "1. Allah'a İman: Evrenin Şifresi",
+        "icon": "sparkles",
+        "steps": [
+          { "type": "hook", "content": "Issız bir çölde kaybolsan ve gece gökyüzündeki kusursuz yıldız dizilimine baksan, bu düzenin bir tesadüf olamayacağını zihninle ve kalbinle nasıl anlardın?" },
+          { "type": "knowledge", "title": "Kelime-i Tevhid ve Özü", "content": "La ilahe illallah, Muhammedün Resulullah. Bu cümle sadece dille söylenen bir tekerleme değil; hayattaki tüm sahte güçleri, parayı, makamı ve egoyu reddedip sadece tek bir yaratıcıya teslim olmaktır." },
+          { "type": "reflection", "prompt": "Sence 'Allah'tan başka hiçbir mutlak güç yoktur' bilinci, günlük hayatındaki gelecek kaygısını ve insanlardan beklentilerini nasıl azaltır? Kısaca tefekkürünü yaz." },
+          { "type": "quiz", "question": "Allah'a inandığını söyleyip, parayı veya dünyevi makamı hayatının tek ve en büyük amacı haline getirmek manevi olarak hangi kavrama yaklaşır?", "options": ["Tevhid", "İhlas", "Şirk", "Tevekkül"], "answerIndex": 2, "aiHint": "Şirk sadece taştan putlara tapmak değildir dostum. Kalbinde Allah'tan daha fazla değer verdiğin, kaybetmekten O'ndan daha çok korktuğun her şey gizli bir kula dönüşebilir. Tekrar düşün..." },
+          { "type": "mission", "content": "Bugün gökyüzüne, bir ağaca veya kendi parmak izine bakıp 1 dakika boyunca yaratılışın mükemmelliğini sessizce tefekkür et." }
         ]
       },
       {
-        "kimlik": "m1_l2",
-        "başlık": "2. Melekler: Görünmez Gözlemciler",
-        "simge": "tüy",
-        "adımlar": [
-          { "tip": "kanca", "i̇çerik": "Eğer şu an omzunda senin onun iyiliğini, fedakârlığı kaydeden ve seninle gurur duyan nurdan varlıklar olduğunu hissetseydin, yalnızlık hissin yok olur muydu?" },
-          { "tip": "bilgi", "başlık": "Kiramen Katibin: Değerli Yazıcılar", "i̇çerik": "İslam inancına göre kozmosta asla yalnız değiliz. Kiramen Katibin adı verilen melekler, sağ ve sol omzumuzda niyetlerimiz ve amelelerimiz kaydeder. Onlar bizim en sadık manevi yoldaşlarımızdır." },
-          { "tip": "yansıma", "hızlı": "Melekler seni onu an izlediğini, en gizli iyiyi niyetlerini bile fark edip anda nurdan sayfalarla kaydettiğini bilgi iç dünyanda nasıl bir emniyet duygusu oluşturuyor?" },
-          { "tip": "sınav", "soru": "İnsanın sağ va solunda bulunup sevap ve günahları yazmakla görevli olan meleklerin Kur'an-ı Kerim'de geçiten ismi nedir?", "seçenekler": ["Hafaza Melekleri", "Münker ve Nekir", "Kiramen Katibin", "Mukarrebun"], "answerIndex": 2, "aiHint": "Bu meleklerin ismi 'şerefli yazıcılar' anlamına gelir ve hayatımızın görünmez şahitleridir. Şıkları buna göre eleyelim..." },
-          { "tip": "görev", "i̇çerik": "Bugün sağ omzundaki meleği gülümsetecek, kimsenin bilmediği, tamamen gizli bir iyilik (sessiz bir dua veya gizli bir sadaka) yap." }
+        "id": "m1_l2",
+        "title": "2. Melekler: Görünmez Gözlemciler",
+        "icon": "feather",
+        "steps": [
+          { "type": "hook", "content": "Eğer şu an omzunda senin her iyiliğini, fedakarlığını kaydeden ve seninle gurur duyan nurdan varlıklar olduğunu derinden hissetseydin, yalnızlık hissin yok olur muydu?" },
+          { "type": "knowledge", "title": "Kiramen Katibin: Değerli Yazıcılar", "content": "İslam inancına göre kozmosta asla yalnız değiliz. Kiramen Katibin adı verilen melekler, sağ ve sol omzumuzda niyetlerimizi ve amellerimizi kaydeder. Onlar bizim en sadık manevi yoldaşlarımızdır." },
+          { "type": "reflection", "prompt": "Meleklerin seni her an izlediğini, en gizli iyi niyetlerini bile fark edip anında nurdan sayfalarla kaydettiğini bilmek iç dünyanda nasıl bir emniyet duygusu oluşturuyor?" },
+          { "type": "quiz", "question": "İnsanın sağ va solunda bulunup sevap ve günahları yazmakla görevli olan meleklerin Kur'an-ı Kerim'de geçen ismi nedir?", "options": ["Hafaza Melekleri", "Münker ve Nekir", "Kiramen Katibin", "Mukarrebun"], "answerIndex": 2, "aiHint": "Bu meleklerin ismi 'şerefli yazıcılar' anlamına gelir ve hayatımızın görünmez şahitleridir. Şıkları buna göre eleyelim..." },
+          { "type": "mission", "content": "Bugün sağ omzundaki meleği gülümsetecek, kimsenin bilmediği, tamamen gizli bir iyilik (sessiz bir dua veya gizli bir sadaka) yap." }
         ]
       },
       {
-        "kimlik": "m1_l3",
-        "başlık": "3. Kitaplara İman: İlahi Hitap",
-        "simge": "kitap aç",
-        "adımlar": [
-          { "tip": "kanca", "i̇çerik": "Kainatın yaratıcısı sana doğrudan bir mektup gönderseydi, o mektubu hayatın merkezine koyup her gün satır satır okumaz miydın? Asında o mektup onu bir yanı başında." },
-          { "tip": "bilgi", "başlık": "Kelam Sıfatı ve Kitaplar", "i̇çerik": "Allah, insani karanlikta bırakmamış, peygamberlerine gönderdiği vahiylerle konuşmuştur. Kur'an-ı Kerim, bu ilahi hitabın en oğul, evrensel ve tahrif edilmemiş mühürüdür; yaşayan bir kılavuzdur." },
-          { "tip": "yansıma", "hızlı": "Kur'an'ı sadece tarihi bir bilgi kitabı olarak değil, senin şu an yaşadığın problemlere rehberlik eden ilahi bir ses olarak okumak sence bakış açını nasıl değiştirir?" },
-          { "tip": "sınav", "soru": "Aşağıdaki ilahi kitaplardan hangisi Hz. Davud (as) peygambere indirilmiştir?", "seçenekler": ["Tevrat", "Zebur", "İncil", "Kur'an-ı Kerim"], "cevap Dizini": 1, "aiHint": "Bu kitap mezmurlar olarak da bilir ve lirik, dua ağırlıklı bir üsluba sahiptir. Tevrat Hz. Musa'ya, İncil ise Hz. İsa'ya indirilmiştir." },
-          { "tip": "görev", "i̇çerik": "Bugün Kur'an-ı Kerim'den rastgele bir sayfa aç, sadece bir ayetin yemekini satır satır, hayatına odaklayarak oku." }
+        "id": "m1_l3",
+        "title": "3. Kitaplara İman: İlahi Hitap",
+        "icon": "book-open",
+        "steps": [
+          { "type": "hook", "content": "Kainatın yaratıcısı sana doğrudan bir mektup gönderseydi, o mektubu hayatının merkezine koyup her gün satır satır okumaz mıydın? Aslında o mektup her an yanı başında." },
+          { "type": "knowledge", "title": "Kelam Sıfatı ve Kitaplar", "content": "Allah, insanı karanlıkta bırakmamış, peygamberlerine gönderdiği vahiylerle konuşmuştur. Kur'an-ı Kerim, bu ilahi hitabın en son, evrensel ve tahrif edilmemiş mühürüdür; yaşayan bir kılavuzdur." },
+          { "type": "reflection", "prompt": "Kur'an'ı sadece tarihi bir bilgi kitabı olarak değil, senin şu an yaşadığın problemlere rehberlik eden ilahi bir ses olarak okumak sence bakış açını nasıl değiştirir?" },
+          { "type": "quiz", "question": "Aşağıdaki ilahi kitaplardan hangisi Hz. Davud (a.s.) peygambere indirilmiştir?", "options": ["Tevrat", "Zebur", "İncil", "Kur'an-ı Kerim"], "answerIndex": 1, "aiHint": "Bu kitap mezmurlar olarak da bilinir ve lirik, dua ağırlıklı bir üsluba sahiptir. Tevrat Hz. Musa'ya, İncil ise Hz. İsa'ya indirilmiştir." },
+          { "type": "mission", "content": "Bugün Kur'an-ı Kerim'den rastgele bir sayfa aç, sadece bir ayetin mealini satır satır, hayatına odaklayarak oku." }
         ]
       },
       {
-        "kimlik": "m1_l4",
-        "başlık": "4. Peygamberlere İman: Canlı Örnekler",
-        "simge": "kullanıcı",
-        "adımlar": [
-          { "tip": "kanca", "i̇çerik": "Karanlık ve fırtınalı bir denizde yol alırken fenerleri ve yolu en iyiyi bilir kaptanları takip etmek istersin. İnsanlığın fırtınalarında senin rehber fenerin kim?" },
-          { "tip": "bilgi", "başlık": "Nübüvvet ve Üsve-i Hasene", "i̇çerik": "Peygamberler, teorik inancı pratik hayata döken rol modellerdir. Hz. Muhammed (sav) ise 'Üsve-i Hasene' yani en güzel örnek olarak yaşantısıyla adaleti, ahlakı ve sabrı insanlığa kazandırmışır." },
-          { "tip": "yansıma", "hızlı": "Hz. Peygamber'in Taif'te kendisine taş atanlar için safra beddua etmek yerine 'Bilmiyorlar, hidayet et' diye dua etmesini düşüncedüğünde, sana kötülük yapana karşı tavrın nasıl olmalı?" },
-          { "tip": "sınav", "soru": "Peygamberlerin en önemli vasıflarından biri olan ve 'güvenilir olmak' anlamına gelen kavram aşağıdakilerden hangisidir?", "seçenekler": ["Sıdk", "Emanet", "Fetanet", "İsmet"], "answerIndex": 1, "aiHint": "Mekkeliler daha peygamberlik gelmeden önce O'na 'Muhammedü'l-Emin' derlerdi. Emin olmak hangi şıkla doğrudan bağlantılıdır yoldaş?" },
+        "id": "m1_l4",
+        "title": "4. Peygamberlere İman: Canlı Örnekler",
+        "icon": "user",
+        "steps": [
+          { "type": "hook", "content": "Karanlık ve fırtınalı bir denizde yol alırken fenerleri ve yolu en iyi bilen kaptanları takip etmek istersin. İnsanlığın fırtınalarında senin rehber fenerin kim?" },
+          { "type": "knowledge", "title": "Nübüvvet ve Üsve-i Hasene", "content": "Peygamberler, teorik inancı pratik hayata döken rol modellerdir. Hz. Muhammed (s.a.v.) ise 'Üsve-i Hasene' yani en güzel örnek olarak yaşantısıyla adaleti, ahlakı ve sabrı insanlığa kazandırmıştır." },
+          { "type": "reflection", "prompt": "Hz. Peygamber'in Taif'te kendisine taş atanlar için bile beddua etmek yerine 'Bilmiyorlar, hidayet et' diye dua etmesini düşündüğünde, sana kötülük yapanlara karşı tavrın nasıl olmalı?" },
+          { "type": "quiz", "question": "Peygamberlerin en önemli vasıflarından biri olan ve 'güvenilir olmak' anlamına gelen kavram aşağıdakilerden hangisidir?", "options": ["Sıdk", "Emanet", "Fetanet", "Ismet"], "answerIndex": 1, "aiHint": "Mekkeliler daha peygamberlik gelmeden önce O'na 'Muhammedü'l-Emin' derlerdi. Emin olmak hangi şıkla doğrudan bağlantılıdır yoldaş?" },
           { "type": "mission", "content": "Bugün karşılaştığın zor bir durumda öfkelenmek yerine, Efendimizin 'Kolaylaştırın, zorlaştırmayın' sünnetini düşünerek birine karşı yapıcı ve yumuşak davran." }
         ]
       },
@@ -633,53 +633,53 @@
         "title": "1. Ahir Zamanda Lût kavmi ve Asr-ı Saadet Arasında Kalmak",
         "icon": "shield",
         "steps": [
-          { "tip": "kanca", "i̇çerik": "Etrafındaki herkesin manevi değerleri unuttuğu, bencilliğin ve hazcılığın zirve yaptığı modern bir dünyada, inancını avucunda kor gibi tutarak yürüyen o kahraman genç sen olabilir misin?" },
-          { "bahşiş": "bilgi", "başlık": "Gurbet Makamı ve Garip Müminler",
-            "i̇çerik": "Peygamber Efendimiz (sav) 'İslam garip başladı, günün birinde yine başladığı gibi garip haline dönecektir. Ne mutlu ey garip!' buyurmuştur. Ahir zamanda ideal mümin olmak; akıntıya karşı kürek çekmektir. Herkes dünyayı tüketirken, onun kalbi ebediyete odaklıdır. O, kalabalıklar içinde yalnız kalsa safra Yaratıcılarının 'Sen benim kulumun' nidasıyla teselli bulan asil bir gariptir." },
-          { "bahşiş": "yansıma", "hızlı": "Çevrende ibadet etmeyen, sürekli dünyevi hazları kovalayan çoğulluğun baskısına kapılmadan, manevi çizgini (namazını, ahlakını) tek başına dik tutmak sana nasıl bir ruhsal güç veriyor?" },
-          { "bahşiş": "sınav", "soru": "Peygamberimizin (sav) ahir zamanda inancını koruma çalışan müminlerin sabrını benzettiği o sarsıcı nesne hangisidir?",
-            "seçenekler": ["Gül bahçesi", "Avuçta tutulan ateşten bir kor", "Altın anahtar", "Sakin bir liman"], "cevap Dizini": 1, "aiHint": "O nesneyi elinde tutarsan elin yanar yoldaş, yere fırlatırsan inancın döner. İşte o kora talip olan yiğitlerin makamı çok büyüktür." },
-          { "bahşiş": "görev", "i̇çerik": "Bugün arkadaş ortamında veya sosyal medyada sırf ortama ayak uydurmak için inancından, duruşundan veya namazından asla taviz verme. İnancını gururla ve nezaketle temsil et." }
+          { "type": "hook", "content": "Etrafındaki herkesin manevi değerleri unuttuğu, bencilliğin ve hazcılığın zirve yaptığı modern bir dünyada, inancını avucunda kor gibi tutarak yürüyen o kahraman genç sen olabilir misin?" },
+          { "type": "knowledge", "title": "Gurbet Makamı ve Garip Müminler",
+            "content": "Peygamber Efendimiz (s.a.v.) 'İslam garip başladı, günün birinde yine başladığı gibi garip haline dönecektir. Ne mutlu o gariplere!' buyurmuştur. Ahir zamanda ideal mümin olmak; akıntıya karşı kürek çekmektir. Herkes dünyayı tüketirken, onun kalbi ebediyete odaklıdır. O, kalabalıklar içinde yalnız kalsa bile Yaratıcısının 'Sen benim kulumun' nidasıyla teselli bulan asil bir gariptir." },
+          { "type": "reflection", "prompt": "Çevrende ibadet etmeyen, sürekli dünyevi hazları kovalayan çoğunluğun baskısına kapılmadan, manevi çizgini (namazını, ahlakını) tek başına dik tutmak sana nasıl bir ruhsal güç veriyor?" },
+          { "type": "quiz", "question": "Peygamberimizin (s.a.v.) ahir zamanda inancını korumaya çalışan müminlerin sabrını benzettiği o sarsıcı nesne hangisidir?",
+            "options": ["Gül bahçesi", "Avuçta tutulan ateşten bir kor", "Altın anahtar", "Sakin bir liman"], "answerIndex": 1, "aiHint": "O nesneyi elinde tutarsan elin yanar yoldaş, yere fırlatırsan inancın söner. İşte o kora talip olan yiğitlerin makamı çok büyüktür." },
+          { "type": "mission", "content": "Bugün arkadaş ortamında veya sosyal medyada sırf ortama ayak uydurmak için inancından, duruşundan veya namazından asla taviz verme. İnancını gururla ve nezaketle temsil et." }
         ]
       },
       {
-        "kimlik": "m10_l2",
-        "başlık": "2. Salih Amel: İmanı Hayatta Canlı Tutmak",
-        "simge": "etkinlik",
-        "adımlar": [
-          { "bahşiş": "kanca", "i̇çerik": "Zihindeki soyut bir inanç, eyleme dökülmedikçe kurumaya mahkum bir tohum gibidir. Sence inancının meyve vermesi ve hayat bulması için onu gün hangi salih ameli toprağa ekiyorsun? },
-          { "bahşiş": "bilgi", "başlık": "İman ve Amel Ortaklığı",
-            "i̇çerik": "Kur'an-ı Kerim'de neredeyse tüm ayetlerde 'İman edenler ve salih amel işleyenler' ifadesi yan yana gelir. Amelsiz iman, korumasız bir mum alevi gibidir; ilk rüzgarda sönebilir. Salih amel; kırık bir kalbi tamir etmek, birine yardım etmek, işini milimetrik bir dürüstlükle (ihsanla) yapmak ve hayatın onu anını ibadete dönüştürmektir." },
-          { "bahşiş": "yansıma", "hızlı": "Geliştirdiğin bir yazılımın, temizlendiğin bir sokağın veya bir insana ettiğin yardımın 'Salih Amel' niyetine geçebilmesi için kalbindeki o niyet filtresini nasıl ayarlamalısın?" },
-          { "bahşiş": "sınav", "soru": "Yaptığımız bir amelin ilahi katmanda 'Salih Amel' olarak kabil edilip nur sızdırması için gereken en temel iki şart hangisidir?",
-            "seçenekler": ["Çok para kazanmak ve tanınmak", "İmanla yapılamaz ve sadece Allah rızası (İhlas) gözetilmesi", "Herkesin görmesi ve alkışlaması", "Sadece yaşlanınca yapılamaz"], "cevap Dizini": 1, "aiHint": "İçinde iman olmayan ameller boşa gider, içinde gösteriş (riya) olan ameller ise ahirette sahibinin yüzüne çarpılır yoldaş. Şıkkı buna göre ele." },
-          { "bahşiş": "görev", "i̇çerik": "Bugün sırf bir insanın hayatını kolaylaştırmak veya yüzünü güldürmek için, karşılıkta hiçbir teşekkür beklemeden tamamen sessiz bir salih amel işe koyul." }
+        "id": "m10_l2",
+        "title": "2. Salih Amel: İmanı Hayatta Canlı Tutmak",
+        "icon": "activity",
+        "steps": [
+          { "type": "hook", "content": "Zihindeki soyut bir inanç, eyleme dökülmedikçe kurumaya mahkum bir tohum gibidir. Sence inancının meyve vermesi ve hayat bulması için her gün hangi salih ameli toprağa ekiyorsun?" },
+          { "type": "knowledge", "title": "İman ve Amel Ortaklığı",
+            "content": "Kur'an-ı Kerim'de neredeyse tüm ayetlerde 'İman edenler ve salih amel işleyenler' ifadesi yan yana gelir. Amelsiz iman, korumasız bir mum alevi gibidir; ilk rüzgarda sönebilir. Salih amel; kırık bir kalbi tamir etmek, birine yardım etmek, işini milimetrik bir dürüstlükle (ihsanla) yapmak ve hayatın her anını ibadete dönüştürmektir." },
+          { "type": "reflection", "prompt": "Geliştirdiğin bir yazılımın, temizlediğin bir sokağın veya bir insana ettiğin yardımın 'Salih Amel' niyetine geçebilmesi için kalbindeki o niyet filtresini nasıl ayarlamalısın?" },
+          { "type": "quiz", "question": "Yaptığımız bir amelin ilahi katmanda 'Salih Amel' olarak kabul edilip nur sızdırması için gereken en temel iki şart hangisidir?",
+            "options": ["Çok para kazanmak ve tanınmak", "İmanla yapılması ve sadece Allah rızası (İhlas) gözetilmesi", "Herkesin görmesi ve alkışlaması", "Sadece yaşlanınca yapılması"], "answerIndex": 1, "aiHint": "İçinde iman olmayan ameller boşa gider, içinde gösteriş (riya) olan ameller ise ahirette sahibinin yüzüne çarpılır yoldaş. Şıkkı buna göre ele." },
+          { "type": "mission", "content": "Bugün sırf bir insanın hayatını kolaylaştırmak veya yüzünü güldürmek için, karşılığında hiçbir teşekkür beklemeden tamamen sessiz bir salih amel işe koyul." }
         ]
       },
       {
-        "kimlik": "m10_l3",
-        "başlık": "3. Hüsn-i Hatime: Son Nefes Optimizasyonu",
-        "simge": "kalp",
-        "adımlar": [
-          { "bahşiş": "kanca", "i̇çerik": "Hayatının oğlu saniyesinde, gözlerini bu dünyaya kapatırken dilinden ve kalbinden dökülecek o oğlu kelimenin ne olmasını isterdin? Unutma, insan nasıl yaşarsa öyle ölür." },
-          { "bahşiş": "bilgi", "başlık": "Güzel Bir Son ve Ölüm Bilinci",
-            "i̇çerik": "Hüsn-i Hatime, dünya imtihanını imanla ve güzel bir sonla tamamlayabilmektir. İdeal mümin, ömrünü oğlu nefes ekrana göre optimize eder. Her an ölecekmiş gibi uyanık, hiç ölmeyecekmiş gibi azimli yaşar. Son nefeste Kelime-i Tevhid ile göçebilmek, hayat boya çekilen zikirlerin, kılınan namazların ve yaşayanılan temiz ahlakın nihai bir ödüdür." },
-          { "bahşiş": "yansıma", "hızlı": "Ölümün bir bitiş değil, ömür boyunca yazdığın kodların, biriktirdiğin amellerin derlenip (`compile` edinilip) sonsuzluk ekranında çalışacağı o asil an olduğunu düşünce hayat vizyonunu nasıl değiştirir?" },
-          { "bahşiş": "sınav", "soru": "Müminin hayatı boyunca korku ile ümit (Havf ve Recâ) arasında dengede yaşayıp, oğlu nefesini imanla teslim etmesi durumuna ne ad verilir?",
-            "seçenekler": ["Sui Hatime", "Hüsn-i Hatime", "Gaflet", "İrtidat"], "cevap Dizini": 1, "aiHint": "Sui Hatime çirkin ve imansız bir oğul demektir. Bizim aradığımız ise kalbin nurla mühürlendiği o 'en güzel, en asil oğul' tanımıdır." },
-          { "bahşiş": "görev", "i̇çerik": "Bugün ellerini aç ve Efendimizin o asil duasıyla Yaratıcıya sığın: 'Rabbim, ömrümün en hayırlı anını oğlu anım eyle, amellerimin en hayırlısını oğlu amelim eyle.' " }
+        "id": "m10_l3",
+        "title": "3. Hüsn-i Hatime: Son Nefes Optimizasyonu",
+        "icon": "heart",
+        "steps": [
+          { "type": "hook", "content": "Hayatının son saniyesinde, gözlerini bu dünyaya kapatırken dilinden ve kalbinden dökülecek o son kelimenin ne olmasını isterdin? Unutma, insan nasıl yaşarsa öyle ölür." },
+          { "type": "knowledge", "title": "Güzel Bir Son ve Ölüm Bilinci",
+            "content": "Hüsn-i Hatime, dünya imtihanını imanla ve güzel bir sonla tamamlayabilmektir. İdeal mümin, ömrünü son nefes ekranına göre optimize eder. Her an ölecekmiş gibi uyanık, hiç ölmeyecekmiş gibi azimli yaşar. Son nefeste Kelime-i Tevhid ile göçebilmek, hayat boyu çekilen zikirlerin, kılınan namazların ve yaşanılan temiz ahlakın nihai bir ödülüdür." },
+          { "type": "reflection", "prompt": "Ölümün bir bitiş değil, ömür boyunca yazdığın kodların, biriktirdiğin amellerin derlenip (`compile` edilip) sonsuzluk ekranında çalışacağı o asil an olduğunu düşünmek hayat vizyonunu nasıl değiştirir?" },
+          { "type": "quiz", "question": "Müminin hayatı boyunca korku ile ümit (Havf ve Recâ) arasında dengede yaşayıp, son nefesini imanla teslim etmesi durumuna ne ad verilir?",
+            "options": ["Sui Hatime", "Hüsn-i Hatime", "Gaflet", "İrtidat"], "answerIndex": 1, "aiHint": "Sui Hatime çirkin ve imansız bir son demektir. Bizim aradığımız ise kalbin nurla mühürlendiği o 'en güzel, en asil son' tanımıdır." },
+          { "type": "mission", "content": "Bugün ellerini aç ve Efendimizin o asil duasıyla Yaratıcıya sığın: 'Rabbim, ömrümün en hayırlı anını son anım eyle, amellerimin en hayırlısını son amelim eyle.' " }
         ]
       },
       {
-        "kimlik": "m10_final",
-        "başlık": "Akademi Zirvesi: İmam-ı Rabbani (k.s.)",
-        "simge": "kupa",
-        "adımlar": [
-          { "bahşiş": "kanca", "i̇çerik": "Tam 10 modül boyunca manevi basamakları tırmandın, kalbini tefekkürle biledin. Şimdi bu büyük yürüyüşün nihai zirvesinde, çağları aydınlatan o devasa meşalenin hitabına hazır mısır?" },
-          { "bahşiş": "bilim adamı", "bilim AdamıAdı": "İmam-ı Rabbani Ahmed-i Farukî es-Serhendî",
-            "alıntı": "Bilesin ki yoldaş! Tam 10 kapıdan geçtin, ilmi ve ahlakı zihnine nakşettin. Fakat şunları kalbine mıhla: Şeriatın (emirlerin) zahiriyle kalıp batınına (özüne, tefekkürüne) inmeyenler kuru birer teklitçidir. Tarikat ve hakikat, şeriatın özünü korumak ve imanı yakîne (kesin bilgiye) ulaştırmak için birer hizmetçidir. Kalbini masivadan (Allah'tan gayrı her şeyden) arındırmadıkça, yaptının tüm ibadetler birer kuru yorgunluktan ibaret kalır. İdeal mümin; aklısı ilimle, ruhunu zikirle besleyip ahir zaman fırtınalarında sarsılmayan bir dağ gibi durandır. Yoldaşlığın daim, nurun bol olsun." },
-          { "bahşiş": "yansıma", "hızlı": "İmam-ı Rabbani'nin bu nihai Akademi uyarısını düşüncedüğünde; ilk modülden bu yana kazandığının o muazzam Nur puanlarını, tefekkür günlüklerini ve manevi makamları hayatın geri kalanında birer 'taklit' olmaktan çıtır çıtır nasıl yaşayan bir ahlaka dönüştüreceksin? Son tefekkürünü kalpten yaz." },
-          { "bahşiş": "görev", "i̇çerik": "Bu muazzam 10 modüllük büyük akademinin ebedi ve en büyük tacı olarak; bugün seccadene otur, gözlerini kapat. İlk dersten bu yana öğrendiğin tüm o asil hakikatleri düşünce. Yaratıcına 'Rabbim, beni ömrümün sonuna kadar bu manevi yolda sabit kadem eyle, beni gariplerin ve salihlerin safından ayırma' diye yalvar ve bu büyük eğitimi kalbine kilitle yoldaş." }
+        "id": "m10_final",
+        "title": "Akademi Zirvesi: İmam-ı Rabbani (k.s.)",
+        "icon": "trophy",
+        "steps": [
+          { "type": "hook", "content": "Tam 10 modül boyunca manevi basamakları tırmandın, kalbini tefekkürle biledin. Şimdi bu büyük yürüyüşün nihai zirvesinde, çağları aydınlatan o devasa meşalenin hitabına hazır mısın?" },
+          { "type": "scholar", "scholarName": "İmam-ı Rabbani Ahmed-i Farukî es-Serhendî",
+            "quote": "Bilesin ki yoldaş! Tam 10 kapıdan geçtin, ilmi ve ahlakı zihnine nakşettin. Fakat şunları kalbine mıhla: Şeriatın (emirlerin) zahiriyle kalıp batınına (özüne, tefekkürüne) inmeyenler kuru birer taklitçidir. Tarikat ve hakikat, şeriatın özünü korumak ve imanı yakîne (kesin bilgiye) ulaştırmak için birer hizmetçidir. Kalbini masivadan (Allah'tan gayrı her şeyden) arındırmadıkça, yaptığın tüm ibadetler birer kuru yorgunluktan ibaret kalır. İdeal mümin; aklını ilimle, ruhunu zikirle besleyip ahir zaman fırtınalarında sarsılmayan bir dağ gibi durandır. Yoldaşlığın daim, nurun bol olsun." },
+          { "type": "reflection", "prompt": "İmam-ı Rabbani'nin bu nihai Akademi uyarısını düşündüğünde; ilk modülden bu yana kazandığın o muazzam Nur puanlarını, tefekkür günlüklerini ve manevi makamları hayatının geri kalanında birer 'taklit' olmaktan çıkarıp nasıl yaşayan bir ahlaka dönüştüreceksin? Son tefekkürünü kalpten yaz." },
+          { "type": "mission", "content": "Bu muazzam 10 modüllük büyük akademinin ebedi ve en büyük tacı olarak; bugün seccadene otur, gözlerini kapat. İlk dersten bu yana öğrendiğin tüm o asil hakikatleri düşün. Yaratıcına 'Rabbim, beni ömrümün sonuna kadar bu manevi yolda sabit kadem eyle, beni gariplerin ve salihlerin safından ayırma' diye yalvar ve bu büyük eğitimi kalbine kilitle yoldaş." }
         ]
       }
     ]
