@@ -1,72 +1,72 @@
 [
   {
-    "kimlik": 1,
-    "başlık": "Ayasofya-i Kebir Camii",
-    "konum": "İstanbul",
-    "yıl": "537/1453",
-    "mimar": "Isidore & Anthemius (Fatih Onarımı)",
-    "resimUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/ayasofya.jpg",
-    "kısa Desc": "Çağları aşan muazzam kubbesi ve fethin nişanesi olan eşsiz mihrabıyla insanlık tarihinin en görkemli yapılarından biri.",
-    "tam Desc": "Fatih Sultan Mehmed Han'ın İstanbul'u fethyle birlikte camiye dönüştürülen bu muazzam mabet, asırlar boyunca ecdadımızın titiz onarımları ve Mimar Sinan'ın eklediği istinat duvarlarıyla günümüze ulaşmıştır. İçerisindeki 'terleyen sütun' ve kubbe yazıları manevi birer sır gibi ziyaretçileri karşılar."
+    "id": 1,
+    "title": "Ayasofya-i Kebir Camii",
+    "location": "İstanbul",
+    "year": "537 / 1453",
+    "architect": "Isidore & Anthemius (Fatih Onarımı)",
+    "imageUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/ayasofya.jpg",
+    "shortDesc": "Çağları aşan muazzam kubbesi ve fethin nişanesi olan eşsiz mihrabıyla insanlık tarihinin en görkemli yapılarından biri.",
+    "fullDesc": "Fatih Sultan Mehmed Han'ın İstanbul'u fethiyle birlikte camiye dönüştürülen bu muazzam mabet, asırlar boyunca ecdadımızın titiz onarımları ve Mimar Sinan'ın eklediği istinat duvarlarıyla günümüze ulaşmıştır. İçerisindeki 'terleyen sütun' ve kubbe yazıları manevi birer sır gibi ziyaretçilerini karşılar."
   },
   {
-    "kimlik": 2,
-    "başlık": "Süleymaniye Camii",
-    "konum": "İstanbul",
-    "yıl": "1557",
-    "mimar": "Mimar Sinan",
-    "resimUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/suleymaniye.jpg",
-    "kısa Desc": "Mimar Sinan'ın 'kalfalık eserim' dediği, bir taşında akılalmaz dehalar barındıran mimarlık şaheseri.",
-    "tam Desc": "Süleymaniye sadece bir cami değil; medresesi, kütüphanesi ve şifahanesiyle devasa bir külliyedir. Sinan'ın cami içine kurduğu 'İs Odası' dehası, kandillerden çıkmazel bir hava akımıyla toplıp mürekkep üretilmesini sağlamıştır."
+    "id": 2,
+    "title": "Süleymaniye Camii",
+    "location": "İstanbul",
+    "year": "1557",
+    "architect": "Mimar Sinan",
+    "imageUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/suleymaniye.jpg",
+    "shortDesc": "Mimar Sinan'ın 'kalfalık eserim' dediği, her bir taşında akılalmaz dehalar barındıran mimarlık şaheseri.",
+    "fullDesc": "Süleymaniye sadece bir cami değil; medresesi, kütüphanesi ve şifahanesiyle devasa bir külliyedir. Sinan'ın cami içine kurduğu 'İs Odası' dehası, kandillerden çıkan isi mükemmel bir hava akımıyla toplayıp mürekkep üretilmesini sağlamıştır."
   },
   {
-    "kimlik": 3,
-    "başlık": "Sultanahmet Camii",
-    "konum": "İstanbul",
-    "yıl": "1617",
-    "mimar": "Sedefkar Mehmed Ağa",
-    "resimUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/sultanahmet.jpg",
-    "kısa Desc": "Mavi çinileriyle dünyaya 'Mavi Cami' olarak nam salmış, ecdadın estetik ve maneviyat dengesindeki zirvesi.",
-    "tam Desc": "İç mekanı süsleyen 20 bin aşkın göz alıcı İznik çinisi ve kubbesini aydınlatan pencereleriyle büyükleyici bir atmosfere sahiptir. Ecdadımızın 6 minareli inşa ettiği bu asil mabet, İstanbul semalarıın en zarif tacıdır."
+    "id": 3,
+    "title": "Sultanahmet Camii",
+    "location": "İstanbul",
+    "year": "1617",
+    "architect": "Sedefkar Mehmed Ağa",
+    "imageUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/sultanahmet.jpg",
+    "shortDesc": "Mavi çinileriyle dünyaya 'Blue Mosque' olarak nam salmış, ecdadın estetik ve maneviyat dengesindeki zirvesi.",
+    "fullDesc": "İç mekanını süsleyen 20 bini aşkın göz alıcı İznik çinisi ve kubbesini aydınlatan pencereleriyle büyüleyici bir atmosfere sahiptir. Ecdadımızın 6 minareli inşa ettiği bu asil mabet, İstanbul semalarının en zarif tacıdır."
   },
   {
-    "kimlik": 4,
-    "başlık": "Selimiye Camii",
-    "konum": "Edirne",
-    "yıl": "1575",
-    "mimar": "Mimar Sinan",
-    "resimUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/selimiye.jpg",
-    "kısa Desc": "Sinan'ın 'ustalık eserim' diyerek dünyaya meydan okuduğu, statik ve estetiğin kusursuz birleşimi.",
-    "tam Desc": "Tek bir kubbeyle tüm iç mekanı örten dahiyane tasarımı, minarelerindeki eşsiz üç yollu merdiven sistemiyle Selimiye, mimarlık tarihinin erişilmez zirvelerinden biridir. İç kısımdaki müezzin mahfilinde yer alan ters lale motifi, sabır ve tevazunun timsali olarak bilir."
+    "id": 4,
+    "title": "Selimiye Camii",
+    "location": "Edirne",
+    "year": "1575",
+    "architect": "Mimar Sinan",
+    "imageUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/selimiye.jpg",
+    "shortDesc": "Sinan'ın 'ustalık eserim' diyerek dünyaya meydan okuduğu, statik ve estetiğin kusursuz birleşimi.",
+    "fullDesc": "Tek bir kubbeyle tüm iç mekanı örten dahiyane tasarımı, minarelerindeki eşsiz üç yollu merdiven sistemiyle Selimiye, mimarlık tarihinin erişilmez zirvelerinden biridir. İç kısımdaki müezzin mahfilinde yer alan ters lale motifi, sabır ve tevazunun timsali olarak bilinir."
   },
   {
-    "kimlik": 5,
-    "başlık": "Bursa Ulu Camii",
-    "konum": "Bursa",
-    "yıl": "1400",
-    "mimar": "Ali Neccar",
-    "resimUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/bursa_ulu.jpg",
-    "kısa Desc": "Osmanlı'nın ilk başkentindeki 20 kubbeli ulu mabet, hat sanatının yeryüzündeki en büyük müzesi.",
-    "tam Desc": "Yıldırım Bayezid Han'ın Niğbolu zaferinin şükran nişanesi olarak yapraktırdığı mabet, içindeki devasa şadırvanı ve duvarları süsleyen eşsiz hat yazılarıyla adeta manevi bir vaha gibidir. Şadırvandan yükselen su sesi, içeride sükunetin ve tefekkürün kapısını aralar."
+    "id": 5,
+    "title": "Bursa Ulu Camii",
+    "location": "Bursa",
+    "year": "1400",
+    "architect": "Ali Neccar",
+    "imageUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/bursa_ulu.jpg",
+    "shortDesc": "Osmanlı'nın ilk başkentindeki 20 kubbeli ulu mabet, hat sanatının yeryüzündeki en büyük müzesi.",
+    "fullDesc": "Yıldırım Bayezid Han'ın Niğbolu zaferinin şükran nişanesi olarak yaptırdığı mabet, içindeki devasa şadırvanı ve duvarlarını süsleyen eşsiz hat yazılarıyla adeta manevi bir vaha gibidir. Şadırvandan yükselen su sesi, içeride sükunetin ve tefekkürün kapısını aralar."
   },
   {
-    "kimlik": 6,
-    "başlık": "Ortaköy Camii",
-    "konum": "İstanbul",
-    "yıl": "1856",
-    "mimar": "Nigoğos Balyan",
-    "resimUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/ortakoy.jpg",
-    "kısa Desc": "Boğaz'ın incisi, adeta suyun süzerinde süzülen barok ve neoklasik tarzın en zarif camisi.",
-    "tam Desc": "Asıl adı Büyük Mecidiye Camii olan bu zarif eser, İstanbul Boğazı'nın kıyısında asil duruşuyla nam salmıştır. Geniş pencereleri sayesinde Boğaz'ın ışıkları caminin içine doldurarak büyükeyici ve ferah bir manevi atmosfer sunar."
+    "id": 6,
+    "title": "Ortaköy Camii",
+    "location": "İstanbul",
+    "year": "1856",
+    "architect": "Nigoğos Balyan",
+    "imageUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/ortakoy.jpg",
+    "shortDesc": "Boğaz'ın incisi, adeta suyun üzerinde süzülen barok ve neoklasik tarzın en zarif camisi.",
+    "fullDesc": "Asıl adı Büyük Mecidiye Camii olan bu zarif eser, İstanbul Boğazı'nın kıyısında asil duruşuyla nam salmıştır. Geniş pencereleri sayesinde Boğaz'ın ışıklarını caminin içine doldurarak büyüleyici ve ferah bir manevi atmosfer sunar."
   },
   {
-    "kimlik": 7,
-    "başlık": "Divriği Ulu Camii",
-    "konum": "Sivas",
-    "yıl": "1228",
-    "mimar": "Muğis oğlu Hurremşah",
-    "resimUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/divrigi.jpg",
-    "kısa Desc": "UNESCO Dünya Mirası listesindeki kapılarında namaz kılan insan silüetlerinin belirdi taş mucizesi.",
-    "tam Desc": "Mengücekler döneminde inşa eden bu başyapıt, taş işçiliğinde benzeri olmayan asimetrik rölyefleriyle ünlüdür. Güneş işığının açısına göre devasa taç kapılarda beliren 'Namaz kılan insan silüeti', ecdadımızın sadece mimarıde değil, astronomide de ulaştığı hayranlık uyandırıcı dehanın göstergesidir."
+    "id": 7,
+    "title": "Divriği Ulu Camii",
+    "location": "Sivas",
+    "year": "1228",
+    "architect": "Muğis oğlu Hurremşah",
+    "imageUrl": "https://raw.githubusercontent.com/Emrefire/Yoldas-App/main/assets/heritage/divrigi.jpg",
+    "shortDesc": "UNESCO Dünya Mirası listesindeki kapılarında namaz kılan insan silüetlerinin belirdiği taş mucizesi.",
+    "fullDesc": "Mengücekliler döneminde inşa edilen bu başyapıt, taş işçiliğinde benzeri olmayan asimetrik rölyefleriyle ünlüdür. Güneş ışığının açısına göre devasa taç kapılarda beliren 'Namaz kılan insan silüeti', ecdadımızın sadece mimaride değil, astronomide de ulaştığı hayranlık uyandırıcı dehanın göstergesidir."
   }
 ]
