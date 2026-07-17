@@ -11,7 +11,7 @@
         "icon": "sparkles",
         "steps": [
           { "type": "hook", "content": "Issız bir çölde kaybolsan ve gece gökyüzündeki kusursuz yıldız dizilimine baksan, bu düzenin bir tesadüf olamayacağını zihninle ve kalbinle nasıl anlardın?" },
-          { "type": "knowledge", "title": "Kelime-i Tevhid and Özü", "content": "La ilahe illallah, Muhammedün Resulullah. Bu cümle sadece dille söylenen bir tekerleme değil; hayattaki tüm sahte güçleri, parayı, makamı ve egoyu reddedip sadece tek bir yaratıcıya teslim olmaktır." },
+          { "type": "knowledge", "title": "Kelime-i Tevhid ve Özü", "content": "La ilahe illallah, Muhammedün Resulullah. Bu cümle sadece dille söylenen bir tekerleme değil; hayattaki tüm sahte güçleri, parayı, makamı ve egoyu reddedip sadece tek bir yaratıcıya teslim olmaktır." },
           { "type": "reflection", "prompt": "Sence 'Allah'tan başka hiçbir mutlak güç yoktur' bilinci, günlük hayatındaki gelecek kaygısını ve insanlardan beklentilerini nasıl azaltır? Kısaca tefekkürünü yaz." },
           { "type": "quiz", "question": "Allah'a inandığını söyleyip, parayı veya dünyevi makamı hayatının tek ve en büyük amacı haline getirmek manevi olarak hangi kavrama yaklaşır?", "options": ["Tevhid", "İhlas", "Şirk", "Tevekkül"], "answerIndex": 2, "aiHint": "Şirk sadece taştan putlara tapmak değildir dostum. Kalbinde Allah'tan daha fazla değer verdiğin, kaybetmekten O'ndan daha çok korktuğun her şey gizli bir kula dönüşebilir. Tekrar düşün..." },
           { "type": "mission", "content": "Bugün gökyüzüne, bir ağaca veya kendi parmak izine bakıp 1 dakika boyunca yaratılışın mükemmelliğini sessizce tefekkür et." }
